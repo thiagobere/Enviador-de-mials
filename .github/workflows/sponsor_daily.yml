@@ -1,0 +1,73 @@
+name: Sponsor Bot – Daily Run
+
+on:
+  schedule:
+    # Runs every day at 9:00 AM Argentina time (UTC-3) = 12:00 UTC
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Mode: all | outreach | reply"
+        required: false
+        default: "all"
+      dry_run:
+        description: "Dry run (true/false)"
+        required: false
+        default: "false"
+
+jobs:
+  sponsor-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Sponsor Bot (outreach)
+        if: ${{ github.event.inputs.mode != 'reply' }}
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: thi2012x@gmail.com
+        run: |
+          DRY=${{ github.event.inputs.dry_run }}
+          if [ "$DRY" = "true" ]; then
+            python main.py --outreach --dry-run
+          else
+            python main.py --outreach
+          fi
+
+      - name: Run Sponsor Bot (replies)
+        if: ${{ github.event.inputs.mode != 'outreach' }}
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: thi2012x@gmail.com
+        run: |
+          DRY=${{ github.event.inputs.dry_run }}
+          if [ "$DRY" = "true" ]; then
+            python main.py --reply --dry-run
+          else
+            python main.py --reply
+          fi
+
+      - name: Commit updated companies database
+        run: |
+          git config user.name "Sponsor Bot"
+          git config user.email "thi2012x@gmail.com"
+          git add data/companies.json
+          git diff --staged --quiet || git commit -m "chore: update companies database $(date '+%Y-%m-%d')"
+          git push
