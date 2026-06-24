@@ -194,9 +194,11 @@ Al final reportá:
 ---
 
 ## REGLAS IMPORTANTES
-1. **Nunca** mandes dos emails al mismo dominio
+1. **Nunca** mandes dos emails al mismo dominio — chequeá email Y dominio base (ej: `logitech.com`)
 2. **Nunca** respondas a threads que NO tengan el label `Label_55`
-3. Si una empresa ya está en `data/companies.json`, saltearla
+3. Si una empresa ya está en `data/companies.json` con cualquier status (sent, draft, bounce, replied_*), **saltearla**
 4. Si un email rebotó (mailer-daemon), marcarlo como `bounce` y no reintentar
 5. Respondé siempre en el mismo idioma en que te escribieron
 6. Todos los emails de respuesta también llevan el label `Label_55`
+7. **Guardá `data/companies.json` inmediatamente después de cada email enviado**, no solo al final — así si la rutina se interrumpe no se pierden los registros
+8. Los borradores (`status: "draft"`) también cuentan como ya contactados — no reenviar
