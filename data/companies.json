@@ -959,9 +959,337 @@
       "status": "bounce",
       "category": "gaming_peripherals",
       "thread_id": ""
+    },
+    {
+      "company": "OMP Racing",
+      "email": "info@ompracing.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f03d256690ab13"
+    },
+    {
+      "company": "Bell Racing",
+      "email": "info@bellracing.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "karting_gear",
+      "thread_id": "19f03d25e23157f7"
+    },
+    {
+      "company": "K1 RaceGear",
+      "email": "sponsorship@k1racegear.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f03d2685fc9f54"
+    },
+    {
+      "company": "LIQUI MOLY",
+      "email": "sponsorship@liqui-moly.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f03d26e44bfcf2"
+    },
+    {
+      "company": "Motul",
+      "email": "motorsport@motul.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f03d27b815c347"
+    },
+    {
+      "company": "Valvoline",
+      "email": "sponsorship@valvoline.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f03d27ffcd0230"
+    },
+    {
+      "company": "Red Line Oil",
+      "email": "sponsorship@redlineoil.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f03d289a646dbf"
+    },
+    {
+      "company": "Alpinestars",
+      "email": "info@alpinestars.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "karting_gear",
+      "thread_id": "19f03d290e446b97"
+    },
+    {
+      "company": "Bridgestone",
+      "email": "motorsport@bridgestone.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f03d29a7559cbe"
+    },
+    {
+      "company": "Michelin",
+      "email": "motorsport@michelin.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f03d2a013f648d"
+    },
+    {
+      "company": "BRAUM Racing",
+      "email": "sponsorship@braumracing.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "karting_gear",
+      "thread_id": "19f03d2e82814466"
+    },
+    {
+      "company": "VP Racing Fuels",
+      "email": "sponsorships@vpracingfuels.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f03d2f2b677dcd"
+    },
+    {
+      "company": "AMSOIL",
+      "email": "sponsorship@amsoil.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f03d2fc5ff3bb0"
+    },
+    {
+      "company": "Myprotein",
+      "email": "ambassadors@myprotein.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f03d3043f303ee"
+    },
+    {
+      "company": "Deepcoin",
+      "email": "partnerships@deepcoin.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": "19f03d30f0aede63"
+    },
+    {
+      "company": "LBank",
+      "email": "partnerships@lbank.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": "19f03d3163e9815d"
+    },
+    {
+      "company": "Driven Sunglasses",
+      "email": "contact@drivensunglasses.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f03d31e988c655"
+    },
+    {
+      "company": "goodr Sunglasses",
+      "email": "info@goodr.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f03d327daa0b58"
+    },
+    {
+      "company": "Stratasys",
+      "email": "contact@stratasys.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "3d_printing",
+      "thread_id": "19f03d3307e442ce"
+    },
+    {
+      "company": "TAG Heuer",
+      "email": "partnerships@tagheuer.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "watches",
+      "thread_id": "19f03d3392ec619e"
+    },
+    {
+      "company": "SunGod Eyewear",
+      "email": "contact@sungod.co",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f03d3724d745c6"
+    },
+    {
+      "company": "Roka Sunglasses",
+      "email": "sponsorships@roka.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f03d37bd12d107"
+    },
+    {
+      "company": "Abaco Polarized",
+      "email": "info@abacopolarized.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f03d386fdff8af"
+    },
+    {
+      "company": "Bomber Eyewear",
+      "email": "contact@bombereyewear.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "eyewear",
+      "thread_id": "19f03d38f1c5c215"
+    },
+    {
+      "company": "Tudor Watch",
+      "email": "contact@tudorwatch.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "watches",
+      "thread_id": "19f03d396cc1fe87"
+    },
+    {
+      "company": "BWT",
+      "email": "info@bwt.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "motorsport_sponsorship",
+      "thread_id": "19f03d39f14e1f4a"
+    },
+    {
+      "company": "HUGO BOSS",
+      "email": "motorsports@hugoboss.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f03d3a88e04f35"
+    },
+    {
+      "company": "DXRacer",
+      "email": "partnerships@dxracer.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": "19f03d3b1917fb08"
+    },
+    {
+      "company": "NZXT",
+      "email": "partnerships@nzxt.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": "19f03d3bb0e42c55"
+    },
+    {
+      "company": "SCUF Gaming",
+      "email": "partnerships@scufgaming.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": "19f03d3c2ca0ae1c"
+    },
+    {
+      "company": "BBS Motorsport",
+      "email": "motorsports@bbs-motorsport.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f03d40ff4a49d6"
+    },
+    {
+      "company": "Maxxis Tires",
+      "email": "sponsorship@maxxis.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "racing_tires",
+      "thread_id": "19f03d416a8c0d36"
+    },
+    {
+      "company": "OKX",
+      "email": "partnerships@okx.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": "19f03d420e853428"
+    },
+    {
+      "company": "ViewSonic",
+      "email": "esports@viewsonic.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": "19f03d429bf62f4c"
+    },
+    {
+      "company": "PURE Sports Nutrition",
+      "email": "partnerships@puresportsnutrition.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f03d43172d7466"
+    },
+    {
+      "company": "Blue Shock Race",
+      "email": "partnerships@blueshockrace.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "karting_gear",
+      "thread_id": "19f03d43be977cd5"
+    },
+    {
+      "company": "Maui Jim",
+      "email": "partnerships@mauijim.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "eyewear",
+      "thread_id": "19f03d4435353f94"
+    },
+    {
+      "company": "3D Systems",
+      "email": "contact@3dsystems.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "3d_printing",
+      "thread_id": "19f03d44ca75b34b"
+    },
+    {
+      "company": "ATFX",
+      "email": "partnerships@atfx.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": "19f03d45d579ffde"
+    },
+    {
+      "company": "Globant",
+      "email": "pr@globant.com",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "tech_argentina",
+      "thread_id": "19f03d4676d15b25"
+    },
+    {
+      "company": "bplay",
+      "email": "info@bplay.bet.ar",
+      "date": "2026-06-26",
+      "status": "draft",
+      "category": "sports_betting",
+      "thread_id": "19f03d470a95b2b2"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-06-24"
+  "last_updated": "2026-06-26"
 }
