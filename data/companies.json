@@ -959,9 +959,281 @@
       "status": "bounce",
       "category": "gaming_peripherals",
       "thread_id": ""
+    },
+    {
+      "company": "Alpinestars",
+      "email": "talk-to-us@alpinestars.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "NordVPN",
+      "email": "business@nordvpn.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "tech_vpn",
+      "thread_id": ""
+    },
+    {
+      "company": "Ghost Lifestyle",
+      "email": "partnerships@ghostlifestyle.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "energy_drink",
+      "thread_id": ""
+    },
+    {
+      "company": "Alani Nu",
+      "email": "contact@alaninu.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "energy_drink",
+      "thread_id": ""
+    },
+    {
+      "company": "Bucked Up",
+      "email": "ambassadors@buckedup.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "ExpressVPN",
+      "email": "influencers@expressvpn.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "tech_vpn",
+      "thread_id": ""
+    },
+    {
+      "company": "Anker",
+      "email": "influencer@anker.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "tech_accessories",
+      "thread_id": ""
+    },
+    {
+      "company": "Merlin Motorsport",
+      "email": "marketing@merlinmotorsport.co.uk",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport_store",
+      "thread_id": ""
+    },
+    {
+      "company": "Peak Design",
+      "email": "info@peakdesign.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "tech_accessories",
+      "thread_id": ""
+    },
+    {
+      "company": "ProtonVPN",
+      "email": "influencers@proton.ch",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "tech_vpn",
+      "thread_id": ""
+    },
+    {
+      "company": "KLIM",
+      "email": "racers@klim.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "Creality",
+      "email": "brand@creality.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "3d_printing",
+      "thread_id": ""
+    },
+    {
+      "company": "Dainese",
+      "email": "marketing@dainese.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "Bell Racing",
+      "email": "customerservice@bellhelmets.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport_gear",
+      "thread_id": ""
+    },
+    {
+      "company": "K1 RaceGear",
+      "email": "sales@k1racegear.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport_gear",
+      "thread_id": ""
+    },
+    {
+      "company": "VP Racing Fuels",
+      "email": "marketing@vpracingfuels.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "OMP Racing",
+      "email": "info@us.ompracing.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport_gear",
+      "thread_id": ""
+    },
+    {
+      "company": "FENIX",
+      "email": "info@fenixlight.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "tech_accessories",
+      "thread_id": ""
+    },
+    {
+      "company": "Arai Helmet Europe",
+      "email": "sponsoring@araihelmet.eu",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport_gear",
+      "thread_id": ""
+    },
+    {
+      "company": "Stand21 Racewear",
+      "email": "contact@stand21na.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "NZXT",
+      "email": "marketing@nzxt.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "Nomad Goods",
+      "email": "partnerships@nomadgoods.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "tech_accessories",
+      "thread_id": ""
+    },
+    {
+      "company": "LIQUI-MOLY",
+      "email": "sponsoring@liqui-moly.de",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "Parolin Racing Kart",
+      "email": "contact@parolinusa.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Naranja X",
+      "email": "marketing@naranjax.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": ""
+    },
+    {
+      "company": "Mercado Libre",
+      "email": "partners@mercadolibre.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": ""
+    },
+    {
+      "company": "Bulk",
+      "email": "affiliates@bulk.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "Motorsport Network",
+      "email": "info@motorsportnetwork.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "motorsport",
+      "thread_id": ""
+    },
+    {
+      "company": "Bambu Lab",
+      "email": "marketing@bambulab.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "3d_printing",
+      "thread_id": ""
+    },
+    {
+      "company": "MyLaps",
+      "email": "info@mylaps.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "karting_tech",
+      "thread_id": ""
+    },
+    {
+      "company": "Santander Argentina",
+      "email": "post@santander.com.ar",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "bank_sports",
+      "thread_id": ""
+    },
+    {
+      "company": "Casio G-Shock",
+      "email": "media@casio.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "tech_watches",
+      "thread_id": ""
+    },
+    {
+      "company": "Alienware",
+      "email": "awsocialmedia@dell.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "Merlin Kart",
+      "email": "info@merlinkart.com",
+      "date": "2026-06-27",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": ""
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-06-24"
+  "last_updated": "2026-06-27"
 }
