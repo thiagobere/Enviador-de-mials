@@ -959,9 +959,409 @@
       "status": "bounce",
       "category": "gaming_peripherals",
       "thread_id": ""
+    },
+    {
+      "company": "Bell Racing",
+      "email": "sponsorship@bellracing.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "karting",
+      "thread_id": "19f13471032caa01"
+    },
+    {
+      "company": "OMP Racing",
+      "email": "marketing@ompracing.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f13471a1a6aad8"
+    },
+    {
+      "company": "Alpinestars",
+      "email": "sponsorship@alpinestars.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f1347274d938b8"
+    },
+    {
+      "company": "MOMO Motorsport",
+      "email": "info@momomotorsport.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f13473346813e6"
+    },
+    {
+      "company": "K1 RaceGear",
+      "email": "sales@k1racegear.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f13473ddf4b1ed"
+    },
+    {
+      "company": "Praga Karts",
+      "email": "info@pragaglobal.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "karting",
+      "thread_id": "19f13474b8be320b"
+    },
+    {
+      "company": "GHOST Energy",
+      "email": "partnerships@ghostlifestyle.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "energy_drink",
+      "thread_id": "19f134754212d9f0"
+    },
+    {
+      "company": "Sneak Energy",
+      "email": "info@sneakenergy.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "energy_drink",
+      "thread_id": "19f134760fa7652d"
+    },
+    {
+      "company": "Liquid I.V.",
+      "email": "partnerships@liquid-iv.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f1347cdeb4f7e1"
+    },
+    {
+      "company": "Tillett Racing Seats",
+      "email": "info@tillett.co.uk",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "karting",
+      "thread_id": "19f1347d89d30de9"
+    },
+    {
+      "company": "Gymshark",
+      "email": "partnerships@gymshark.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f1347e5f37e55e"
+    },
+    {
+      "company": "AiM Sports",
+      "email": "info@aimsports.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "karting_tech",
+      "thread_id": "19f1347f10f93f1f"
+    },
+    {
+      "company": "Glorious Gaming",
+      "email": "sales@gloriousgaming.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": "19f1347fcd4c31b5"
+    },
+    {
+      "company": "Thermaltake",
+      "email": "partnerships@thermaltake.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "tech_hardware",
+      "thread_id": "19f13480826cd9ea"
+    },
+    {
+      "company": "goodr",
+      "email": "ambassador@goodr.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f13481488d63c3"
+    },
+    {
+      "company": "LIQUI MOLY",
+      "email": "sponsorship@liqui-moly.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f13481ee060089"
+    },
+    {
+      "company": "Motul",
+      "email": "motulusa@motul.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f13485427d5eea"
+    },
+    {
+      "company": "Lucas Oil",
+      "email": "ambassadors@lucasoil.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f13485fe3db8c3"
+    },
+    {
+      "company": "Valvoline",
+      "email": "motorsport@valvoline.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f13486ac92b1c5"
+    },
+    {
+      "company": "Maui Jim",
+      "email": "partnerships@maujim.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f1348772f1d19d"
+    },
+    {
+      "company": "Tudor Watches",
+      "email": "ambassador@tudorwatch.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "watches",
+      "thread_id": "19f134881b46c925"
+    },
+    {
+      "company": "Nitro Kart",
+      "email": "info@racenitro.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "karting",
+      "thread_id": "19f13488cfe3b4e4"
+    },
+    {
+      "company": "Margay Racing",
+      "email": "info@margay.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "karting",
+      "thread_id": "19f134898ec420d2"
+    },
+    {
+      "company": "Maxxis Tires",
+      "email": "sponsorship@maxxis.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport",
+      "thread_id": "19f1348a4fa210d3"
+    },
+    {
+      "company": "G-FORCE Racing",
+      "email": "info@gforce.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f1349bf4cf692a"
+    },
+    {
+      "company": "HEROIC Racing Apparel",
+      "email": "info@heroicracing.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f1349cd414ab89"
+    },
+    {
+      "company": "Nutrabolics",
+      "email": "ambassador@nutrabolics.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f1349d8636123c"
+    },
+    {
+      "company": "NordVPN",
+      "email": "affiliate@nordvpnmedia.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "tech",
+      "thread_id": "19f1349e4478d1ad"
+    },
+    {
+      "company": "ExpressVPN",
+      "email": "influencers@expressvpn.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "tech",
+      "thread_id": "19f1349f07e7b7c5"
+    },
+    {
+      "company": "Bridgestone Motorsport",
+      "email": "motorsport@bridgestone.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport",
+      "thread_id": "19f1349ff98653b3"
+    },
+    {
+      "company": "Vega Tyres",
+      "email": "info@vegatyres.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "karting",
+      "thread_id": "19f134a09f6b7340"
+    },
+    {
+      "company": "Shady Rays",
+      "email": "partnerships@shadyrays.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f134a151131d73"
+    },
+    {
+      "company": "Integralmédica",
+      "email": "marketing@integralmedica.com.br",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f134a7a0132e9b"
+    },
+    {
+      "company": "DUX Nutrition",
+      "email": "influenciadores@duxnutrition.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f134a88f69c901"
+    },
+    {
+      "company": "Ivolution",
+      "email": "info@ivolution.com.ar",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f134a9648821ea"
+    },
+    {
+      "company": "ROKA Sports",
+      "email": "sponsorship@roka.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f134c701f163be"
+    },
+    {
+      "company": "Driven Sunglasses",
+      "email": "info@drivensunglasses.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f134c7822a9ea9"
+    },
+    {
+      "company": "Red Line Oil",
+      "email": "info@redlineoil.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f134c82f8138dd"
+    },
+    {
+      "company": "Gulf Oil",
+      "email": "sponsorship@gulfoilltd.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f134c8c8592519"
+    },
+    {
+      "company": "Overture 3D",
+      "email": "service@overture3d.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "3d_printing",
+      "thread_id": "19f134c99b86ae5d"
+    },
+    {
+      "company": "WE ARE SPORTS",
+      "email": "info@wearesports.com.ar",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f134caf21773d3"
+    },
+    {
+      "company": "Olympica Sport Marketing",
+      "email": "info@olympica.com.ar",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f134cba2b2da86"
+    },
+    {
+      "company": "Richard Mille",
+      "email": "contact@richardmille.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "watches",
+      "thread_id": "19f134cc5a9b10eb"
+    },
+    {
+      "company": "IWC Schaffhausen",
+      "email": "motorsport@iwc.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "watches",
+      "thread_id": "19f134cd1dd1d688"
+    },
+    {
+      "company": "Coyote Motorsports",
+      "email": "coyotekart@gmail.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "karting",
+      "thread_id": "19f134cdd370f8ad"
+    },
+    {
+      "company": "Simpson Race Products",
+      "email": "info@simpsonraceproducts.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f134ce9b4b4366"
+    },
+    {
+      "company": "Vega USA Kart Tires",
+      "email": "info@vegausa.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "karting",
+      "thread_id": "19f134cf58b757fc"
+    },
+    {
+      "company": "AFB Motorsport",
+      "email": "info@afbmotorsport.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport",
+      "thread_id": "19f134cfee1c8f09"
+    },
+    {
+      "company": "MotoSport",
+      "email": "sponsorship@motosport.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "motorsport",
+      "thread_id": "19f134d0956072d4"
+    },
+    {
+      "company": "AMD",
+      "email": "sponsorship@amd.com",
+      "date": "2026-06-29",
+      "status": "draft",
+      "category": "tech_hardware",
+      "thread_id": "19f134d142375f52"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-06-24"
+  "last_updated": "2026-06-29"
 }
