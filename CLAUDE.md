@@ -193,12 +193,21 @@ Al final reportá:
 
 ---
 
-## REGLAS IMPORTANTES
-1. **Nunca** mandes dos emails al mismo dominio — chequeá email Y dominio base (ej: `logitech.com`)
-2. **Nunca** respondas a threads que NO tengan el label `Label_55`
-3. Si una empresa ya está en `data/companies.json` con cualquier status (sent, draft, bounce, replied_*), **saltearla**
-4. Si un email rebotó (mailer-daemon), marcarlo como `bounce` y no reintentar
-5. Respondé siempre en el mismo idioma en que te escribieron
-6. Todos los emails de respuesta también llevan el label `Label_55`
-7. **Guardá `data/companies.json` inmediatamente después de cada email enviado**, no solo al final — así si la rutina se interrumpe no se pierden los registros
-8. Los borradores (`status: "draft"`) también cuentan como ya contactados — no reenviar
+## REGLAS ANTI-DUPLICADOS (CRÍTICAS — ya hubo quejas de empresas por emails repetidos)
+
+**REGLA DE ORO: Gmail es la fuente de verdad, NO solo el JSON.** El JSON puede estar desactualizado si una corrida anterior falló.
+
+Antes de enviar CUALQUIER email a una empresa, verificá **TODAS** estas condiciones:
+
+1. **Chequeo por dominio**: el dominio base (ej: `alpinestars.com`) NO está en `data/companies.json`. Un dominio ya contactado = empresa ya contactada, **aunque el email sea distinto** (`info@` vs `sponsorship@` vs `talk-to-us@` son la MISMA empresa → PROHIBIDO reenviar).
+2. **Chequeo por nombre de empresa**: el nombre (normalizado, sin mayúsculas/acentos) NO aparece en el JSON. "OMP Racing" con `info@ompracing.it`, `info@ompracing.com` y `marketing@ompracing.com` es UNA sola empresa.
+3. **Chequeo en Gmail (obligatorio)**: buscá `in:sent to:{dominio}` con `mcp__Gmail__search_threads`. Si hay CUALQUIER resultado, la empresa ya fue contactada → saltear y agregarla al JSON como `sent` con la fecha original.
+
+Reglas adicionales:
+4. **Una sola corrida por día**: al arrancar, buscá `in:sent subject:"Sponsorship Partnership" newer_than:1d`. Si hay más de 5 resultados, la rutina de hoy YA corrió → NO envíes outreach, solo procesá respuestas (PASO 4).
+5. **Guardá `data/companies.json` inmediatamente después de CADA email enviado** (no al final). Si la corrida se interrumpe, no se pierde el registro.
+6. Cualquier status en el JSON (sent, draft, bounce, replied_*) = ya contactada = saltear. NUNCA "probar otra dirección" de una empresa ya contactada.
+7. Si un email rebotó (mailer-daemon), marcá `bounce` y NO reintentes con otra dirección del mismo dominio.
+8. **Nunca** respondas a threads que NO tengan el label `Label_55`.
+9. Respondé siempre en el mismo idioma en que te escribieron.
+10. Todos los emails de respuesta también llevan el label `Label_55`.
