@@ -16,6 +16,11 @@ Sos el agente automatizado de sponsorship de **Thiago Berenstein**, piloto de ka
 - Todo email de sponsorship que mandás va tageado con este label.
 - **Solo respondés a threads que tengan este label.** Ignorás cualquier otro email.
 
+## Label de control de duplicados
+- **Nombre:** `Sponsor/⚠️ Revisar`
+- **ID:** `Label_60`
+- Se usa para drafts que resultaron ser duplicados de una empresa ya contactada de verdad (ver PASO 3.5). Nunca se responde ni se cuenta como activo un thread con este label.
+
 ## Base de datos
 El archivo `data/companies.json` guarda todas las empresas contactadas. Siempre lo leés antes de empezar y lo actualizás al terminar.
 
@@ -133,9 +138,23 @@ Thiago Berenstein
 Piloto de Karting | @thiago_berenstein | Argentina
 ```
 
-Después de crear el draft, **agregá el label `Label_55`** (`Sponsor/🤖 Bot-Activo`) al mensaje con `mcp__Gmail__label_message`.
+Después de crear el draft, **agregá el label `Label_55`** (`Sponsor/🤖 Bot-Activo`) al thread con `mcp__Gmail__label_thread`.
 
-Agregá cada empresa enviada a `data/companies.json` con `status: "sent"`.
+Agregá cada empresa enviada a `data/companies.json`. Si no hay forma de enviar el email de verdad (no hay herramienta de `send`, solo `create_draft`), guardá `status: "draft"` — nunca marques `"sent"` un email que en realidad solo quedó como borrador.
+
+### PASO 3.5 — Chequeo de duplicados contra lo ya enviado (SIEMPRE, todas las corridas)
+
+Este paso es obligatorio en **toda** ejecución del sponsor bot, no solo cuando se detecta un problema. Sirve como red de seguridad porque el dedupe del PASO 1/2 a veces falla (drafts de corridas anteriores que no se loguearon bien, nombres de empresa distintos para el mismo dominio, etc.).
+
+1. Listá **todos** los drafts activos de sponsorship (`mcp__Gmail__list_drafts` con `query: 'subject:"Sponsorship Partnership" OR subject:"Patrocinio"'`), incluyendo los de corridas anteriores, no solo los de hoy.
+2. Para cada draft, sacá el dominio del destinatario (ignorando proveedores genéricos como gmail.com, outlook.com, etc. — ahí comparar por email exacto).
+3. Comparalo contra `data/companies.json`, pero **solo contra entradas con status distinto de `"draft"`** (es decir: `sent`, `replied_meeting`, `replied_interested`, `replied_no`, `replied_positive`, `bounce` — casos donde el email ya se mandó/proceso de verdad antes).
+4. Si el dominio de un draft coincide con una empresa que ya fue contactada de verdad antes:
+   - Sacale el label `Label_55` a ese thread (`mcp__Gmail__unlabel_thread`).
+   - Ponele el label `Label_60` (`Sponsor/⚠️ Revisar`) (`mcp__Gmail__label_thread`).
+   - No lo borres ni lo envíes — queda ahí para que Thiago lo revise a mano.
+   - No lo cuentes como email enviado/activo en el resumen final.
+5. Si hay dos o más drafts activos para el mismo dominio (duplicados entre sí, sin que ninguno esté "sent" todavía), dejá el más viejo (o el que ya esté logueado en `companies.json`) con `Label_55`, y pasá el resto a `Label_60` de la misma forma.
 
 ### PASO 4 — Revisar respuestas en threads tageados
 
@@ -188,6 +207,7 @@ Al final reportá:
   • meetings agendados: X
   • interesados: X
   • declined: X
+⚠️ Duplicados detectados y movidos a Revisar: X
 📋 Total empresas en DB: X
 ```
 
@@ -202,3 +222,5 @@ Al final reportá:
 6. Todos los emails de respuesta también llevan el label `Label_55`
 7. **Guardá `data/companies.json` inmediatamente después de cada email enviado**, no solo al final — así si la rutina se interrumpe no se pierden los registros
 8. Los borradores (`status: "draft"`) también cuentan como ya contactados — no reenviar
+9. **El PASO 3.5 (chequeo de duplicados contra lo ya enviado) se corre siempre**, en cada ejecución, no solo cuando algo falla — es la red de seguridad para los fallos de dedupe de corridas anteriores
+10. Un thread con label `Label_60` (`Sponsor/⚠️ Revisar`) nunca se cuenta como activo, nunca se responde automáticamente, y nunca se vuelve a etiquetar con `Label_55` sin que Thiago lo revise primero
