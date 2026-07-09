@@ -2199,9 +2199,129 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Righetti Ridolfi",
+      "email": "info@righettiridolfi.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "IPKarting / Praga Kart",
+      "email": "info@ipkarting.com",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Kart Republic",
+      "email": "info@kartrepublic.com",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "IAME",
+      "email": "info@iamekarting.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Energy Corse",
+      "email": "info@energycorse.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Last Era Brand",
+      "email": "info@lasterabrand.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "Quilmes",
+      "email": "marketing@quilmes.com.ar",
+      "date": "2026-06-24",
+      "status": "sent",
+      "category": "beverage_motorsport",
+      "thread_id": ""
+    },
+    {
+      "company": "Sponser Sport Food",
+      "email": "info@sponser.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "Simucube",
+      "email": "info@simucube.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sim_racing",
+      "thread_id": ""
+    },
+    {
+      "company": "Virtual Racing School",
+      "email": "info@virtualracingschool.com",
+      "date": "2026-05-20",
+      "status": "sent",
+      "category": "sim_racing",
+      "thread_id": ""
+    },
+    {
+      "company": "Torco Race Fuels",
+      "email": "office@torcoproducts.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "racing_fuel",
+      "thread_id": ""
+    },
+    {
+      "company": "K&N Filters",
+      "email": "motorsport@knfilters.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "automotive_parts",
+      "thread_id": ""
+    },
+    {
+      "company": "Luminox",
+      "email": "info@luminox.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "tech",
+      "thread_id": ""
+    },
+    {
+      "company": "Driven Racing Oil",
+      "email": "info@drivenracingoil.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": ""
+    },
+    {
+      "company": "FreeM Racewear",
+      "email": "tony@freemracewear.co.uk",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_suit",
+      "thread_id": ""
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-07-09T14:20:00.000Z"
 }
