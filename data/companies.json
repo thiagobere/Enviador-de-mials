@@ -2199,9 +2199,193 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "LS2 Helmets",
+      "email": "marketing@ls2helmets.com",
+      "date": "2026-06-24",
+      "status": "sent",
+      "category": "motorsport_gear",
+      "thread_id": "19ef466a8b5f380d"
+    },
+    {
+      "company": "Righetti Ridolfi",
+      "email": "info@righettiridolfi.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f1d9b440c001cf"
+    },
+    {
+      "company": "ROCCAT",
+      "email": "info@roccat.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19ebbc2eb23e6b06"
+    },
+    {
+      "company": "Simucube",
+      "email": "info@simucube.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3e2eb886a4"
+    },
+    {
+      "company": "Luminox",
+      "email": "info@luminox.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "19ebbc5805b2d73f"
+    },
+    {
+      "company": "Icon Motosports",
+      "email": "marketing@rideicon.com",
+      "category": "motorsport_gear",
+      "thread_id": "19f4bfd306586cf2",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "OGK Kabuto",
+      "email": "info@kabuto.co.jp",
+      "category": "motorsport_gear",
+      "thread_id": "19f4bfd3d2fc47bf",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Sodikart",
+      "email": "info@sodikart.com",
+      "category": "karting_chassis",
+      "thread_id": "19f4bfd4b1b9fdca",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Formula K",
+      "email": "info@formulak.it",
+      "category": "karting_chassis",
+      "thread_id": "19f4bfd54bf8c703",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Anycubic",
+      "email": "official@anycubic.com",
+      "category": "3d_printing",
+      "thread_id": "19f4bfd60b5869aa",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Formlabs",
+      "email": "ambassadors@formlabs.com",
+      "category": "3d_printing",
+      "thread_id": "19f4bfd6dda00bcb",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Voxelab",
+      "email": "service@voxelab3dp.com",
+      "category": "3d_printing",
+      "thread_id": "19f4bfd794bf0a30",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Ultimaker",
+      "email": "sponsor@ultimaker.com",
+      "category": "3d_printing",
+      "thread_id": "19f4bfd8459fa4d3",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Ombraz",
+      "email": "info@ombraz.com",
+      "category": "sunglasses",
+      "thread_id": "19f4bfd90120fdf8",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Costa Del Mar",
+      "email": "pro@costadelmar.com",
+      "category": "sunglasses",
+      "thread_id": "19f4bfd9bfea30c4",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Pulsar Gaming Gears",
+      "email": "pr@pulsar.gg",
+      "category": "gaming_peripherals",
+      "thread_id": "19f4bfda81fb37dc",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Endgame Gear",
+      "email": "support@endgamegear.com",
+      "category": "gaming_peripherals",
+      "thread_id": "19f4bfdb2ad79845",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "CAMMUS",
+      "email": "media@cammus.com",
+      "category": "sim_racing_hardware",
+      "thread_id": "19f4bfdc0863135f",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Legion Athletics",
+      "email": "sponsorship@legionathletics.com",
+      "category": "sports_nutrition",
+      "thread_id": "19f4bfdcb29d3843",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Transparent Labs",
+      "email": "ambassador@transparentlabs.com",
+      "category": "sports_nutrition",
+      "thread_id": "19f4bfdd6610dbe0",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "REDCON1",
+      "email": "athletes@redcon1.com",
+      "category": "sports_nutrition",
+      "thread_id": "19f4bfde32a682a4",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "Elf Lubricants",
+      "email": "motorsport@elf.com",
+      "category": "automotive",
+      "thread_id": "19f4bfdee3504d89",
+      "date": "2026-07-10",
+      "status": "draft"
+    },
+    {
+      "company": "TotalEnergies",
+      "email": "motorsport@totalenergies.com",
+      "category": "automotive",
+      "thread_id": "19f4bfdf9f4349c1",
+      "date": "2026-07-10",
+      "status": "draft"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-07-10T12:30:00.000Z"
 }
