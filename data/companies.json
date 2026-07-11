@@ -2199,6 +2199,30 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Sponser Sport Food",
+      "email": "info@sponser.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19ec0e412a1347c7"
+    },
+    {
+      "company": "Hoosier Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tire",
+      "thread_id": "19ec0e1370ee6e64"
+    },
+    {
+      "company": "Racechick",
+      "email": "info@racechick.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19ec0e705be18073"
     }
   ],
   "pending_response": [],
