@@ -2199,9 +2199,67 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Wildkart",
+      "email": "info@wildkartshop.de",
+      "date": "2026-07-12",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Karting Solutions Group",
+      "email": "info@kartingsolutions.com",
+      "date": "2026-07-12",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "TM Kart",
+      "email": "info@tmkart.it",
+      "date": "2026-07-12",
+      "status": "draft",
+      "category": "karting_engines",
+      "thread_id": ""
+    },
+    {
+      "company": "Jackery",
+      "email": "marketing@jackery.com",
+      "date": "2026-07-12",
+      "status": "draft",
+      "category": "tech_gadgets",
+      "thread_id": ""
+    },
+    {
+      "company": "EcoFlow",
+      "email": "affiliate@ecoflow.com",
+      "date": "2026-07-12",
+      "status": "draft",
+      "category": "tech_gadgets",
+      "thread_id": ""
+    },
+    {
+      "company": "Transparent Labs",
+      "email": "support@transparentlabs.com",
+      "date": "2026-07-12",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "",
+      "note": "DUPLICATE - a prior unsent draft to ambassador@transparentlabs.com already existed from 2026-07-10. Do not draft/send to this domain again."
+    },
+    {
+      "company": "Phantom Racing Chassis",
+      "email": "phantomracingchassis@gmail.com",
+      "date": "2026-07-12",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": ""
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-07-12T00:00:00.000Z",
+  "operational_alert": "CRITICAL (2026-07-12): Gmail audit shows this bot has been sending duplicate outreach to the same companies repeatedly (e.g. Alpinestars x10 since 2026-06-20, Bell Racing x10, OMP Racing x11 - all to overlapping/same addresses), and separately has accumulated 30+ never-sent drafts dated 2026-06-25 through 2026-07-12 that were never logged here. The anti-duplicate Gmail domain check is not preventing repeat sends across runs. Recommend a human audit of the Sponsor/Bot-Activo label and a pause on outreach until root cause is fixed. See run notification for details."
 }
