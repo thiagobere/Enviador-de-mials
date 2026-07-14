@@ -2199,9 +2199,81 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Hoosier Racing Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tire",
+      "thread_id": "19ec0e1370ee6e64"
+    },
+    {
+      "company": "IAME",
+      "email": "info@iamekarting.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_engines",
+      "thread_id": "19ec0e41e0ba4850"
+    },
+    {
+      "company": "Greenball Tires",
+      "email": "sponsorship@greenball.com",
+      "date": "2026-07-13",
+      "status": "draft",
+      "category": "general",
+      "thread_id": "19f5b663cfb99a4f"
+    },
+    {
+      "company": "Porsche Motorsport",
+      "email": "motorsport-partner@porsche.de",
+      "date": "2026-07-14",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f608a0cdc7edb6"
+    },
+    {
+      "company": "H3R Performance",
+      "email": "h3rinfo@h3rperformance.com",
+      "date": "2026-07-14",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19f608a1ef577cc0"
+    },
+    {
+      "company": "Empowered PC",
+      "email": "support@empoweredpc.com",
+      "date": "2026-07-14",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": "19f608a253287ad6"
+    },
+    {
+      "company": "Sponser Sport Food AG",
+      "email": "info@sponser.ch",
+      "date": "2026-07-14",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f608a371157926"
+    },
+    {
+      "company": "Uprise Nutrition",
+      "email": "info@uprisenutrition.com",
+      "date": "2026-07-14",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f608a3da5587b4"
+    },
+    {
+      "company": "Gentech Argentina",
+      "email": "nutricion@gentech.com.ar",
+      "date": "2026-07-14",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f608a4ac01f899"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-07-14T12:12:28.000Z"
 }
