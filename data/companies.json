@@ -2199,9 +2199,497 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Righetti Ridolfi",
+      "email": "info@righettiridolfi.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f1d9b440c001cf"
+    },
+    {
+      "company": "IAME Karting",
+      "email": "info@iamekarting.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_engine",
+      "thread_id": "19ec0e41e0ba4850"
+    },
+    {
+      "company": "CMC Motorsports",
+      "email": "info@cmcmotorsports.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "19ee4f2fb6bdb952"
+    },
+    {
+      "company": "Gamer Advantage",
+      "email": "partnerships@gameradvantage.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19ec0e14c3c55bbb"
+    },
+    {
+      "company": "Pulsar Gaming Gears",
+      "email": "pr@pulsar.gg",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19f4bfda81fb37dc"
+    },
+    {
+      "company": "Endgame Gear",
+      "email": "support@endgamegear.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19f4bfdb2ad79845"
+    },
+    {
+      "company": "True Protein",
+      "email": "partnerships@trueprotein.com.au",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19ee4efa9bc4822b"
+    },
+    {
+      "company": "Transparent Labs",
+      "email": "support@transparentlabs.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19f563ddd318b16b"
+    },
+    {
+      "company": "Lemon Cash",
+      "email": "hello@lemon.me",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "fintech",
+      "thread_id": "19ed57de8573a31d"
+    },
+    {
+      "company": "Nibbi Racing",
+      "email": "help@nibbiracing.com",
+      "date": "2026-07-26",
+      "status": "draft",
+      "category": "motorsport",
+      "thread_id": "19f9e56f25cff351"
+    },
+    {
+      "company": "Govee",
+      "email": "affiliate@govee.com",
+      "date": "2026-07-26",
+      "status": "draft",
+      "category": "tech_gadget",
+      "thread_id": "19f9e56e7b73396f"
+    },
+    {
+      "company": "Tonormic",
+      "email": "partnerships@tonormic.com",
+      "date": "2026-07-26",
+      "status": "draft",
+      "category": "general",
+      "thread_id": "19f9e56db1c16c92"
+    },
+    {
+      "company": "Highside Clothing",
+      "email": "info@highsideclothing.com.au",
+      "date": "2026-07-26",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19f9e56d0b798bd5"
+    },
+    {
+      "company": "Revo Sunglasses",
+      "email": "help@revo.com",
+      "date": "2026-07-26",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": "19f9e5722e672778"
+    },
+    {
+      "company": "Kaged Muscle",
+      "email": "support@kaged.com",
+      "date": "2026-07-26",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19f9e571670cb14b"
+    },
+    {
+      "company": "Cammus",
+      "email": "eva@cammus.com",
+      "date": "2026-07-15",
+      "status": "draft",
+      "category": "sim_racing_hardware",
+      "thread_id": "19f6470970f1a23f"
+    },
+    {
+      "company": "Wildkart",
+      "email": "info@wildkart.it",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Energy Corse",
+      "email": "sales@energy-corse.com.au",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Intrepid Driver Program",
+      "email": "info@intrepiddriverprogram.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Formula K",
+      "email": "info@formula-k.co.uk",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "LeCont Racing Tyres",
+      "email": "commerciale@lecont.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "kart_tire",
+      "thread_id": ""
+    },
+    {
+      "company": "Airoh",
+      "email": "info@airoh.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "AGV Sports Group",
+      "email": "michael.parrotte@agvsport.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "P1 Advanced Racewear",
+      "email": "sales@gloriacars.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "Marketing Registrado",
+      "email": "info@mktragency.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "marketing",
+      "thread_id": ""
+    },
+    {
+      "company": "Nexa3D",
+      "email": "clare.scott@nexa3d.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "3d_printing",
+      "thread_id": ""
+    },
+    {
+      "company": "Velo3D",
+      "email": "investors@velo3d.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "3d_printing",
+      "thread_id": ""
+    },
+    {
+      "company": "Tomahawk Shades",
+      "email": "family@tomahawkshades.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": ""
+    },
+    {
+      "company": "Spec9 Eyewear",
+      "email": "support@spec9s.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": ""
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": ""
+    },
+    {
+      "company": "Hobie Eyewear",
+      "email": "affiliates@hobieeyewear.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": ""
+    },
+    {
+      "company": "Optic Nerve",
+      "email": "info@opticnerve.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sunglasses",
+      "thread_id": ""
+    },
+    {
+      "company": "Fly1 Motorsports",
+      "email": "info@fly1motorsports.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "Function Factory Performance",
+      "email": "sales@ffperformance.co",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "ISS Automotive",
+      "email": "support@issautomotive.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "H. Moser & Cie",
+      "email": "press@h-moser.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "watches",
+      "thread_id": ""
+    },
+    {
+      "company": "Autodromo",
+      "email": "info@autodromo.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "watches",
+      "thread_id": ""
+    },
+    {
+      "company": "Christopher Ward",
+      "email": "marketing@christopherward.co.uk",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "watches",
+      "thread_id": ""
+    },
+    {
+      "company": "Apex Sim Racing",
+      "email": "support@apexsimracing.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "VNM Simulation",
+      "email": "sale@vnmsimulation.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "6 Sigma Sim Racing",
+      "email": "info@6sigmasimracing.ca",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "GTR Simulator",
+      "email": "info@gtrsim.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "Racing Cockpits",
+      "email": "team@racingcockpits.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "Champion Racing Oil",
+      "email": "racer@championbrands.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "Maxima Racing Oils",
+      "email": "ridersupport@maximausa.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "NearStream",
+      "email": "help@nearstream.us",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "tech_gadget",
+      "thread_id": ""
+    },
+    {
+      "company": "GPXStream",
+      "email": "support@gpxstream.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "tech_gadget",
+      "thread_id": ""
+    },
+    {
+      "company": "ROCCAT",
+      "email": "info@roccat.org",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "G-Wolves",
+      "email": "business@g-wolves.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "Akko",
+      "email": "support@akkogear.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "Sol Energy",
+      "email": "contact@drinksolenergy.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "energy_drink",
+      "thread_id": ""
+    },
+    {
+      "company": "UPTIME Energy",
+      "email": "customerservice@uptimeenergy.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "energy_drink",
+      "thread_id": ""
+    },
+    {
+      "company": "Octane Energy",
+      "email": "support@octanedrink.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "energy_drink",
+      "thread_id": ""
+    },
+    {
+      "company": "INFINIT Nutrition",
+      "email": "support@infinitnutrition.us",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "RYSE Supplements",
+      "email": "athletes@rysesupps.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "Coanda Esports",
+      "email": "info@coanda-esports.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "esports_motorsport",
+      "thread_id": ""
+    },
+    {
+      "company": "Init Esports",
+      "email": "info@initesports.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "esports_motorsport",
+      "thread_id": ""
+    },
+    {
+      "company": "Veloce Media Group",
+      "email": "hi@velocemediagroup.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "esports_motorsport",
+      "thread_id": ""
+    },
+    {
+      "company": "Prex Argentina",
+      "email": "info@prexcard.com.ar",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": ""
+    },
+    {
+      "company": "Buenbit",
+      "email": "soporte@buenbit.com",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": ""
+    },
+    {
+      "company": "Cocos Capital",
+      "email": "atencion@cocos.capital",
+      "date": "2026-07-27",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": ""
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-07-27T12:35:00.000Z"
 }
