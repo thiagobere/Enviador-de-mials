@@ -2199,9 +2199,107 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Hoosier Racing Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tire",
+      "thread_id": "19ec0e1370ee6e64",
+      "note": "backfilled from Gmail sent history 2026-07-30; missing from JSON since 2026-07-01 update"
+    },
+    {
+      "company": "CMC Motorsports",
+      "email": "info@cmcmotorsports.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19ec0e4287c40b8e",
+      "note": "backfilled from Gmail 2026-07-30; sent TWICE (duplicate) on 2026-06-20 by a prior run, JSON was never updated"
+    },
+    {
+      "company": "H3R Performance",
+      "email": "h3rinfo@h3rperformance.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "motorsport_safety",
+      "thread_id": "19f608a1ef577cc0",
+      "note": "backfilled from Gmail sent history 2026-07-30; missing from JSON since 2026-07-01 update"
+    },
+    {
+      "company": "Highside Clothing Co",
+      "email": "info@highsideclothing.com.au",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19f9e56d0b798bd5",
+      "note": "backfilled from Gmail sent history 2026-07-30; missing from JSON since 2026-07-01 update"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19f9e570d4a4bbf1",
+      "note": "backfilled from Gmail 2026-07-30; sent TWICE (duplicate) on 2026-07-27 by a prior run, JSON was never updated"
+    },
+    {
+      "company": "Kaged Muscle",
+      "email": "support@kaged.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19f9e571670cb14b",
+      "note": "backfilled from Gmail 2026-07-30; company replied with an automated acknowledgment on 2026-07-27, reply not yet triaged/answered"
+    },
+    {
+      "company": "Revo Sunglasses",
+      "email": "help@revo.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19f9e5722e672778",
+      "note": "backfilled from Gmail sent history 2026-07-30; missing from JSON since 2026-07-01 update"
+    },
+    {
+      "company": "Pulse Racegear",
+      "email": "support@pulseracegear.com",
+      "date": "2026-07-30",
+      "status": "draft",
+      "category": "karting_apparel",
+      "thread_id": "19fb33b296eb6c18",
+      "note": "draft created 2026-07-30, NOT sent — no Gmail send tool available in this session"
+    },
+    {
+      "company": "Raceday Safety",
+      "email": "orders@racedaysafety.com",
+      "date": "2026-07-30",
+      "status": "draft",
+      "category": "karting_apparel",
+      "thread_id": "19fb33b346206d13",
+      "note": "draft created 2026-07-30, NOT sent — no Gmail send tool available in this session"
+    },
+    {
+      "company": "TONOR",
+      "email": "partnerships@tonormic.com",
+      "date": "2026-07-30",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": "19fb33b3f601c3a3",
+      "note": "draft created 2026-07-30, NOT sent — no Gmail send tool available. DUPLICATE: an earlier unsent draft to the same address already existed from 2026-07-26 (draft id r2057848616426688291) — needs manual cleanup, only send one"
     }
   ],
-  "pending_response": [],
+  "pending_response": [
+    {
+      "company": "Kaged Muscle",
+      "email": "support@kaged.com",
+      "thread_id": "19f9e571670cb14b",
+      "reason": "Replied 2026-07-27 with an automated acknowledgment (not yet a real categorized response); needs manual review. Also note: reply landed with label Sponsors/Respuestas (Label_57), not Sponsor/🤖 Bot-Activo (Label_55), so the daily bot routine's PASO 4 filter would never surface it."
+    }
+  ],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-07-30T13:40:00.000Z",
+  "audit_note": "2026-07-30: Discovered the JSON was stale since 2026-07-01 while Gmail shows 201 sent emails matching subject 'Sponsorship Partnership' (vs ~210 tracked here, many mismatched). At least 7 companies sent between 2026-06-20 and 2026-07-27 were missing from this file, causing 2 confirmed duplicate sends (CMC Motorsports, Rogue Eyewear). A parallel, more detailed label taxonomy exists in Gmail (Sponsors/Respuestas, Sponsors/Posible-Cierre, Sponsors/Seguimiento, Sponsor/⚠️ Revisar) that is not referenced by CLAUDE.md and may be causing replies to be missed by the documented PASO 4 routine. Recommend a full reconciliation of Gmail sent history against this file, and clarifying which label taxonomy is authoritative. Additionally, no Gmail 'send' tool was available in this session — only create_draft — so today's 3 new prospects could only be drafted, not sent."
 }
