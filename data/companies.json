@@ -2199,6 +2199,94 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "IAME Karting",
+      "email": "info@iamekarting.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_engines",
+      "thread_id": "19ec0e41e0ba4850"
+    },
+    {
+      "company": "TM Kart",
+      "email": "info@tmkart.it",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "karting_engines",
+      "thread_id": "19f563db91447554"
+    },
+    {
+      "company": "Torco Race Fuels",
+      "email": "office@torcoproducts.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "racing_fuel",
+      "thread_id": "19f1d9edf15421dd"
+    },
+    {
+      "company": "Righetti Ridolfi",
+      "email": "info@righettiridolfi.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f1d9b440c001cf"
+    },
+    {
+      "company": "Sodikart",
+      "email": "info@sodikart.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f4bfd4b1b9fdca"
+    },
+    {
+      "company": "Prex Argentina",
+      "email": "info@prexcard.com.ar",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "fintech_argentina",
+      "thread_id": "19fa3922b477cfaa"
+    },
+    {
+      "company": "RTX Karting South America",
+      "email": "info@rtxkarting.com",
+      "date": "2026-08-01",
+      "status": "draft",
+      "category": "karting_engines",
+      "thread_id": "19fbd3f911e05d4c"
+    },
+    {
+      "company": "Regina Chain",
+      "email": "sales@reginachain.net",
+      "date": "2026-08-01",
+      "status": "draft",
+      "category": "kart_parts",
+      "thread_id": "19fbd3f9c3ed5f8d"
+    },
+    {
+      "company": "Rugged Radios",
+      "email": "teamrugged@ruggedradios.com",
+      "date": "2026-08-01",
+      "status": "draft",
+      "category": "motorsport_radio",
+      "thread_id": "19fbd3fa8f3254e8"
+    },
+    {
+      "company": "Douglas Wheel (DWT Racing)",
+      "email": "sponsorship@dwtracing.com",
+      "date": "2026-08-01",
+      "status": "draft",
+      "category": "kart_wheels",
+      "thread_id": "19fbd3fb4d87246f"
+    },
+    {
+      "company": "ROK Cup USA",
+      "email": "info@rokcupusa.com",
+      "date": "2026-08-01",
+      "status": "draft",
+      "category": "karting_engines",
+      "thread_id": "19fbd3fcbf8c2dd9"
     }
   ],
   "pending_response": [],
