@@ -2199,9 +2199,57 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19f9e570d4a4bbf1"
+    },
+    {
+      "company": "Spec9 Eyewear",
+      "email": "support@spec9s.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19fa38e41b054d58"
+    },
+    {
+      "company": "Epomaker",
+      "email": "marketing@epomaker.com",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19fc7a69cd2e99ca"
+    },
+    {
+      "company": "ColorFabb",
+      "email": "sales@colorfabb.us",
+      "date": "2026-08-05",
+      "status": "draft",
+      "category": "3d_printing",
+      "thread_id": "19fd1dfbc9460ee9"
+    },
+    {
+      "company": "Redragon",
+      "email": "support@redragonshop.com",
+      "date": "2026-08-05",
+      "status": "draft",
+      "category": "gaming_peripherals",
+      "thread_id": "19fd1dfcad14b484"
+    },
+    {
+      "company": "Seat Concepts",
+      "email": "RiderSupport@seatconcepts.com",
+      "date": "2026-08-05",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19fd1dfd30ab716a"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-08-05T00:00:00.000Z"
 }
