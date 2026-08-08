@@ -3063,6 +3063,94 @@
       "status": "sent",
       "category": "gaming_peripherals",
       "thread_id": "19fc7a69cd2e99ca"
+    },
+    {
+      "company": "Hoosier Racing Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tire",
+      "thread_id": "19ec0e1370ee6e64"
+    },
+    {
+      "company": "IAME Karting",
+      "email": "info@iamekarting.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tech",
+      "thread_id": "19ec0e41e0ba4850"
+    },
+    {
+      "company": "Zylo Industry",
+      "email": "info@zyloindustry.com",
+      "date": "2026-08-08",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "Vortex Racewear",
+      "email": "richard@vortexracewear.com",
+      "date": "2026-08-08",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "D&M Motorsport",
+      "email": "service@dm-motorsport.com",
+      "date": "2026-08-08",
+      "status": "sent",
+      "category": "karting_tire",
+      "thread_id": ""
+    },
+    {
+      "company": "RACEMAX",
+      "email": "contact@racemaxsport.com",
+      "date": "2026-08-08",
+      "status": "sent",
+      "category": "karting_gear",
+      "thread_id": ""
+    },
+    {
+      "company": "Custom Racewear",
+      "email": "info@customracewear.co.uk",
+      "date": "2026-08-08",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "Minus 273",
+      "email": "biz@minus273.biz",
+      "date": "2026-08-08",
+      "status": "sent",
+      "category": "karting_gear",
+      "thread_id": ""
+    },
+    {
+      "company": "SJCAM",
+      "email": "contact@sjcam.com",
+      "date": "2026-08-08",
+      "status": "sent",
+      "category": "tech_cameras",
+      "thread_id": ""
+    },
+    {
+      "company": "R8G Esports",
+      "email": "stephane@r8gesports.com",
+      "date": "2026-08-08",
+      "status": "sent",
+      "category": "esports",
+      "thread_id": ""
+    },
+    {
+      "company": "Ternengokart",
+      "email": "ternengokart@gmail.com",
+      "date": "2026-08-08",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
     }
   ],
   "pending_response": [],
