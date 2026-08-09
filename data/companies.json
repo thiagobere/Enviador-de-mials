@@ -2199,9 +2199,201 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "LeCont Racing Tyres",
+      "email": "commerciale@lecont.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "karting_tire",
+      "thread_id": "19fa38de10a44314"
+    },
+    {
+      "company": "IAME Karting",
+      "email": "info@iamekarting.com",
+      "date": "2026-06-24",
+      "status": "sent",
+      "category": "karting_engine",
+      "thread_id": "19ef467564818688"
+    },
+    {
+      "company": "Airoh",
+      "email": "info@airoh.com",
+      "date": "2026-07-27",
+      "status": "replied_no",
+      "category": "karting_helmet",
+      "thread_id": "19fa38dec72f698d"
+    },
+    {
+      "company": "Anycubic",
+      "email": "official@anycubic.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "19f4bfd60b5869aa"
+    },
+    {
+      "company": "Luminox",
+      "email": "info@luminox.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "watch",
+      "thread_id": "19ebbc5805b2d73f"
+    },
+    {
+      "company": "Lemon Cash",
+      "email": "hello@lemon.me",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "fintech",
+      "thread_id": "19ed57de8573a31d"
+    },
+    {
+      "company": "Pulsar Gaming Gears",
+      "email": "pr@pulsar.gg",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "gaming_peripheral",
+      "thread_id": "19f4bfda81fb37dc"
+    },
+    {
+      "company": "Righetti Ridolfi",
+      "email": "info@righettiridolfi.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f1d9b440c001cf"
+    },
+    {
+      "company": "Simucube",
+      "email": "info@simucube.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3e2eb886a4"
+    },
+    {
+      "company": "Prex Argentina",
+      "email": "info@prexcard.com.ar",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "fintech",
+      "thread_id": "19fa3922b477cfaa"
+    },
+    {
+      "company": "Yeyian Gaming",
+      "email": "marketing@yeyiangaming.com",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "gaming_peripheral",
+      "thread_id": "19fc79b187e3c335"
+    },
+    {
+      "company": "KYT Americas",
+      "email": "race@kytamericas.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "karting_helmet",
+      "thread_id": "19fe67c6af95d3f5"
+    },
+    {
+      "company": "Freem Racing",
+      "email": "info@freemracing.us",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "karting_suit",
+      "thread_id": "19fe67c758dadaa3"
+    },
+    {
+      "company": "Just1 Racing",
+      "email": "info@just1racing.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "karting_helmet",
+      "thread_id": "19fe67c81e6b4fd6"
+    },
+    {
+      "company": "Kart Republic",
+      "email": "info@kartrepublicfrance.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "karting_chassis",
+      "thread_id": "19fe67d76408e2e0"
+    },
+    {
+      "company": "Ascher Racing",
+      "email": "info@ascher-racing.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "sim_racing_hardware",
+      "thread_id": "19fe67d8280f1b80"
+    },
+    {
+      "company": "Held",
+      "email": "customerservice@rideheld.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19fe67d8d38d0278"
+    },
+    {
+      "company": "Marca Deportiva",
+      "email": "marcadeportivasp@gmail.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19fe67d9e321b35f"
+    },
+    {
+      "company": "Godox",
+      "email": "marketing@godox.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "tech_gadget",
+      "thread_id": "19fe67da8857091a"
+    },
+    {
+      "company": "ZeroNine",
+      "email": "info@zeronine.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "karting_suit",
+      "thread_id": "19fe67db29f27c78"
+    },
+    {
+      "company": "Axcel Sports",
+      "email": "info@axcelsports.com",
+      "date": "2026-06-20",
+      "status": "replied_no",
+      "category": "motorsport_apparel",
+      "thread_id": "19edfc76c3e6cd5b"
+    },
+    {
+      "company": "6D Helmets",
+      "email": "RacerSupport@6dhelmets.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "motorsport_helmet",
+      "thread_id": "19fe67e92f8876d0"
+    },
+    {
+      "company": "Unipro Laptimer",
+      "email": "mail@uniprolaptimer.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "karting_electronics",
+      "thread_id": "19fe67e9dae44677"
+    },
+    {
+      "company": "RaceFacer",
+      "email": "info@racefacer.com",
+      "date": "2026-08-09",
+      "status": "draft",
+      "category": "karting_electronics",
+      "thread_id": "19fe67f3bf5afebd"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-08-09T12:40:00.000Z"
 }
