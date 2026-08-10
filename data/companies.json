@@ -2199,9 +2199,225 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Coyote Motorsports",
+      "email": "coyotekart@gmail.com",
+      "date": "2026-07-01",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f134cdd370f8ad"
+    },
+    {
+      "company": "Hoosier Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tire",
+      "thread_id": "19ec0e1370ee6e64"
+    },
+    {
+      "company": "Empowered PC",
+      "email": "support@empoweredpc.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "tech",
+      "thread_id": "19f608a253287ad6"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses_racing",
+      "thread_id": "19f9e570d4a4bbf1"
+    },
+    {
+      "company": "Righetti Ridolfi",
+      "email": "info@righettiridolfi.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f1d9b440c001cf"
+    },
+    {
+      "company": "UPTIME Energy",
+      "email": "customerservice@uptimeenergy.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "19fa391d52dfd521"
+    },
+    {
+      "company": "Formlabs",
+      "email": "ambassadors@formlabs.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "tech_3d_printing",
+      "thread_id": "19f4bfd6dda00bcb"
+    },
+    {
+      "company": "Kart Republic",
+      "email": "info@kartrepublic.com",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19ed57d812ff60a3"
+    },
+    {
+      "company": "Sodikart",
+      "email": "info@sodikart.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f4bfd4b1b9fdca"
+    },
+    {
+      "company": "TotalEnergies",
+      "email": "motorsport@totalenergies.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "lubricant_oil",
+      "thread_id": "19f4bfdf9f4349c1"
+    },
+    {
+      "company": "Airoh",
+      "email": "info@airoh.com",
+      "date": "2026-07-27",
+      "status": "replied_no",
+      "category": "karting_helmet",
+      "thread_id": "19fa38dec72f698d"
+    },
+    {
+      "company": "Pulsar Gaming Gears",
+      "email": "pr@pulsar.gg",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "gaming_peripheral",
+      "thread_id": "19f4bfda81fb37dc"
+    },
+    {
+      "company": "Endgame Gear",
+      "email": "support@endgamegear.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "gaming_peripheral",
+      "thread_id": "19f4bfdb2ad79845"
+    },
+    {
+      "company": "Zylo Industry",
+      "email": "info@zyloindustry.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19feba7e13dc3f6f"
+    },
+    {
+      "company": "Crawford Performance",
+      "email": "marketing@crawfordperformance.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19feba8a3f64effc"
+    },
+    {
+      "company": "Morimoto",
+      "email": "partnerships@morimotohid.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19feba7fd0503615"
+    },
+    {
+      "company": "Better Sport Nutrition",
+      "email": "info@bettersportnutrition.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19feba80645876d7"
+    },
+    {
+      "company": "Bulk Nutrients",
+      "email": "info@bulknutrients.com.au",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "sports_nutrition",
+      "thread_id": "19feba8173be6ca2"
+    },
+    {
+      "company": "Mavix",
+      "email": "info@mavix.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "gaming_peripheral",
+      "thread_id": "19feba81dd7563dd"
+    },
+    {
+      "company": "Yokohama Tire",
+      "email": "motorsports@yokohamatire.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "karting_tire",
+      "thread_id": "19feba829cddb6f4"
+    },
+    {
+      "company": "Mobil 1",
+      "email": "motorsports@mobil.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "lubricant_oil",
+      "thread_id": "19feba8b065ff446"
+    },
+    {
+      "company": "Finova",
+      "email": "info@finova.com.ar",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "fintech",
+      "thread_id": "19feba846a095665"
+    },
+    {
+      "company": "Continental Tire",
+      "email": "info@continentaltire.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "automotive",
+      "thread_id": "19feba8ba8b19fd2"
+    },
+    {
+      "company": "FreeM Racing",
+      "email": "info@freemracing.us",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19feba85ca113ba4"
+    },
+    {
+      "company": "Boss Recovery",
+      "email": "info@boss-recovery.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "tech",
+      "thread_id": "19feba86748835e3"
+    },
+    {
+      "company": "RACEMAX",
+      "email": "contact@racemaxsport.com",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19feba8747517a04"
+    },
+    {
+      "company": "AIFIT Argentina",
+      "email": "marketing@aifit.com.ar",
+      "date": "2026-08-10",
+      "status": "draft",
+      "category": "motorsport_apparel",
+      "thread_id": "19feba87efe1888f"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-08-10T12:40:00.000Z"
 }
