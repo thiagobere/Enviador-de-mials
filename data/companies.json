@@ -2207,6 +2207,94 @@
       "status": "replied_no",
       "category": "automotive",
       "thread_id": "19ec0e5d6a7703bf"
+    },
+    {
+      "company": "Flybondi",
+      "email": "marketing@flybondi.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "airline_argentina",
+      "thread_id": "19edfcfe15c0015f"
+    },
+    {
+      "company": "Ripio",
+      "email": "info@ripio.com",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "fintech_crypto_argentina",
+      "thread_id": "19ed57db60c671b9"
+    },
+    {
+      "company": "Bigbox",
+      "email": "marketing@bigbox.com.ar",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "experiences_motorsport_argentina",
+      "thread_id": "19ee4f1b68566398"
+    },
+    {
+      "company": "YPF",
+      "email": "patrocinios@ypf.com",
+      "date": "2026-06-24",
+      "status": "sent",
+      "category": "energy_motorsport_argentina",
+      "thread_id": "19ef46aab7440faa"
+    },
+    {
+      "company": "AGV Sports Group",
+      "email": "michael.parrotte@agvsport.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19fa38df69c5bf6a"
+    },
+    {
+      "company": "Epomaker",
+      "email": "marketing@epomaker.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": "19ec611ac639c742"
+    },
+    {
+      "company": "Baja Designs",
+      "email": "sponsorships@bajadesigns.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "lifestyle_automotive",
+      "thread_id": "19ec0e2216334f96"
+    },
+    {
+      "company": "Govee",
+      "email": "affiliate@govee.com",
+      "date": "2026-08-03",
+      "status": "replied_no",
+      "category": "tech_gadget",
+      "thread_id": "19f9e56e7b73396f"
+    },
+    {
+      "company": "NearStream",
+      "email": "help@nearstream.us",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": "19fa3917f6dda7c6"
+    },
+    {
+      "company": "Function Factory Performance",
+      "email": "sales@ffperformance.co",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "automotive_parts",
+      "thread_id": "19fa390f179d7fd5"
+    },
+    {
+      "company": "Yeyian Gaming",
+      "email": "marketing@yeyiangaming.com",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "esports_gaming",
+      "thread_id": "19fc79b187e3c335"
     }
   ],
   "pending_response": [],
