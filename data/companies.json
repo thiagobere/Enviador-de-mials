@@ -2199,6 +2199,14 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Mishimoto",
+      "email": "sponsorship@mishimoto.com",
+      "date": "2026-06-20",
+      "status": "replied_no",
+      "category": "automotive",
+      "thread_id": "19ec0e5d6a7703bf"
     }
   ],
   "pending_response": [],
