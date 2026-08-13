@@ -2199,6 +2199,94 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Continental Tire",
+      "email": "info@continentaltire.com",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "tire_brand",
+      "thread_id": "19feba8ba8b19fd2"
+    },
+    {
+      "company": "Celulosa Argentina",
+      "email": "info@celulosa.com.ar",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "empresa_argentina",
+      "thread_id": "19ff0d1ce64b0d86"
+    },
+    {
+      "company": "Vacalin",
+      "email": "info@vacalin.com.ar",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "nutrition_argentina",
+      "thread_id": "19ff0d1d9be87465"
+    },
+    {
+      "company": "Fate Neumaticos",
+      "email": "info@fate.com.ar",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "tire_argentina",
+      "thread_id": "19ff0d1e36fe2914"
+    },
+    {
+      "company": "Concorplast",
+      "email": "info@concorplast.com.ar",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "empresa_argentina",
+      "thread_id": "19ff0d1f12d93016"
+    },
+    {
+      "company": "Sancor Seguros",
+      "email": "info@sancorseguros.com.ar",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "empresa_argentina",
+      "thread_id": "19ff0d1fa9c56550"
+    },
+    {
+      "company": "Mavix",
+      "email": "service@mavix.com",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19ff5f63fba36001"
+    },
+    {
+      "company": "Pure Fuel Sport",
+      "email": "info@purefuelsport.com",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19ff5f64bb274109"
+    },
+    {
+      "company": "Speedcom",
+      "email": "info@speedcomracing.com",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19ff5f6569fa0983"
+    },
+    {
+      "company": "Bryan Decals",
+      "email": "Bryandecals@yahoo.com",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19ff5f66dbd13e3b"
+    },
+    {
+      "company": "Point Karting",
+      "email": "pointkarting@gmail.com",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "19ff5f6608d6484e"
     }
   ],
   "pending_response": [],
