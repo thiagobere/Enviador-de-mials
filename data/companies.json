@@ -2199,9 +2199,505 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "RSeat",
+      "email": "info@rseat.net",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "PXN",
+      "email": "brand@e-pxn.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "SimXperience",
+      "email": "sales@simxperience.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "Vertagear",
+      "email": "marketing@vertagear.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "Autofull",
+      "email": "service@autofull.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "8BitDo",
+      "email": "support@8bitdo.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "Xtrfy",
+      "email": "info@xtrfy.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "Obsbot",
+      "email": "ambassador@obsbot.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": ""
+    },
+    {
+      "company": "Boya",
+      "email": "affiliate@boya-mic.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": ""
+    },
+    {
+      "company": "SmallRig",
+      "email": "smallrig@smallrig.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": ""
+    },
+    {
+      "company": "Ulanzi",
+      "email": "marketing@ulanzi.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": ""
+    },
+    {
+      "company": "Zhiyun",
+      "email": "affiliate@zhiyun-tech.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": ""
+    },
+    {
+      "company": "Neewer",
+      "email": "PR@neewer.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": ""
+    },
+    {
+      "company": "Wolf Lubricants",
+      "email": "marketing@wolflubes.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "COBB Tuning",
+      "email": "sales@cobbtuning.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "CRP Racing",
+      "email": "john@crpracing.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "Red Camel Racing",
+      "email": "sales@redcamelracing.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "AMG Sport",
+      "email": "sales@americanmediagroups.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "FervoGear",
+      "email": "support@fervogear.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "QIDI Tech",
+      "email": "amelia@qidi3d.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": ""
+    },
+    {
+      "company": "Sovol3D",
+      "email": "ads@sovol3d.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": ""
+    },
+    {
+      "company": "ZiP Kart",
+      "email": "contact@zipkart.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Croc Promotion",
+      "email": "info@crocpromotion.us",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "MIR Raceline",
+      "email": "mir@mirraceline.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "karting_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "Komet USA",
+      "email": "info@kometusa.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "karting_tires",
+      "thread_id": ""
+    },
+    {
+      "company": "MT Helmets",
+      "email": "info@mthelmets.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "karting_helmet",
+      "thread_id": ""
+    },
+    {
+      "company": "XL Energy Drink",
+      "email": "social@xl-energy.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": ""
+    },
+    {
+      "company": "GURU Energy",
+      "email": "sponsorships@guruenergy.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": ""
+    },
+    {
+      "company": "Hype Energy Drinks",
+      "email": "info@hype.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": ""
+    },
+    {
+      "company": "Nutrex Research",
+      "email": "info@nutrex.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "Alpha Lion",
+      "email": "wholesale@alphalion.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "Bloom Nutrition",
+      "email": "gifting@bloomnu.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "EFX Sports",
+      "email": "info@efxsports.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "Bitget",
+      "email": "partnerships@bitget.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "fintech",
+      "thread_id": ""
+    },
+    {
+      "company": "Moni",
+      "email": "contacto@moni.com.ar",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "fintech_argentina",
+      "thread_id": ""
+    },
+    {
+      "company": "FxPro",
+      "email": "pr@fxpro.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "fintech",
+      "thread_id": ""
+    },
+    {
+      "company": "Cammus",
+      "email": "media@cammus.com",
+      "date": "2026-07-15",
+      "status": "replied_positive",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "Simucube",
+      "email": "info@simucube.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": ""
+    },
+    {
+      "company": "ROCCAT",
+      "email": "info@roccat.org",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": ""
+    },
+    {
+      "company": "Govee",
+      "email": "affiliate@govee.com",
+      "date": "2026-08-03",
+      "status": "replied_no",
+      "category": "tech_gadget",
+      "thread_id": ""
+    },
+    {
+      "company": "Turbosmart",
+      "email": "marketing@turbosmart.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "Anycubic",
+      "email": "official@anycubic.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": ""
+    },
+    {
+      "company": "Bigbox",
+      "email": "marketing@bigbox.com.ar",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "argentina_general",
+      "thread_id": ""
+    },
+    {
+      "company": "Celulosa Argentina",
+      "email": "info@celulosa.com.ar",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "argentina_general",
+      "thread_id": ""
+    },
+    {
+      "company": "Quilmes",
+      "email": "marketing@quilmes.com.ar",
+      "date": "2026-06-24",
+      "status": "sent",
+      "category": "argentina_general",
+      "thread_id": ""
+    },
+    {
+      "company": "Righetti Ridolfi",
+      "email": "info@righettiridolfi.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Kart Republic",
+      "email": "info@kartrepublic.com",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Sodikart",
+      "email": "info@sodikart.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Intrepid Driver Program",
+      "email": "info@intrepiddriverprogram.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Energy Corse",
+      "email": "info@energycorse.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "Karting Solutions Group",
+      "email": "info@kartingsolutions.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": ""
+    },
+    {
+      "company": "FreeM Racewear",
+      "email": "tony@freemracewear.co.uk",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_apparel",
+      "thread_id": ""
+    },
+    {
+      "company": "LeCont Racing Tyres",
+      "email": "commerciale@lecont.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "karting_tires",
+      "thread_id": ""
+    },
+    {
+      "company": "Hoosier Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tires",
+      "thread_id": ""
+    },
+    {
+      "company": "Airoh",
+      "email": "info@airoh.com",
+      "date": "2026-07-27",
+      "status": "replied_no",
+      "category": "karting_helmet",
+      "thread_id": ""
+    },
+    {
+      "company": "REDCON1",
+      "email": "athletes@redcon1.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "RYSE Supplements",
+      "email": "athletes@rysesupps.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "Transparent Labs",
+      "email": "support@transparentlabs.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "Kaged Muscle",
+      "email": "support@kaged.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": ""
+    },
+    {
+      "company": "Lemon",
+      "email": "hello@lemon.me",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "fintech_argentina",
+      "thread_id": ""
+    },
+    {
+      "company": "Porsche Motorsport",
+      "email": "motorsport-partner@porsche.de",
+      "date": "2026-07-15",
+      "status": "replied_no",
+      "category": "automotive",
+      "thread_id": ""
+    },
+    {
+      "company": "Champion Racing Oil",
+      "email": "racer@championbrands.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": ""
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-08-16T00:00:00.000Z"
 }
