@@ -2199,6 +2199,238 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "PRL Motorsports",
+      "email": "support@prlmotorsports.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "motorsport",
+      "thread_id": "1a00fbce603a6f2c"
+    },
+    {
+      "company": "Wuben",
+      "email": "service@wubenlight.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": "1a00fbcdcefcbe21"
+    },
+    {
+      "company": "BLUETTI",
+      "email": "marketing@bluetti.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "tech_gadget",
+      "thread_id": "1a00fbccec8f63c3"
+    },
+    {
+      "company": "Turbosmart",
+      "email": "sales@turbosmart.com.au",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a00fbcc47614dcd"
+    },
+    {
+      "company": "Vibrant Performance",
+      "email": "sponsorship@vibrantperformance.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a00fbcb696f1612"
+    },
+    {
+      "company": "OPTIMA Batteries",
+      "email": "sponsorship@fm3group.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a00fbc65dd37c1b"
+    },
+    {
+      "company": "AMALIE Motor Oil",
+      "email": "info@amalie.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a00fbc58b8968e9"
+    },
+    {
+      "company": "IPONE",
+      "email": "info@ipone.fr",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a00fbc4d1629406"
+    },
+    {
+      "company": "RAVENOL",
+      "email": "export@ravenol.de",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a00fbc40481819d"
+    },
+    {
+      "company": "Fiwind",
+      "email": "info@fiwind.io",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "fintech_argentina",
+      "thread_id": "1a00fbc32e8bb1be"
+    },
+    {
+      "company": "PyL Neumaticos",
+      "email": "info@pylneumaticos.com.ar",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "kart_tire",
+      "thread_id": "1a00fbc297849140"
+    },
+    {
+      "company": "Bartoli Neumaticos",
+      "email": "info@bartolisa.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "kart_tire",
+      "thread_id": "1a00fbc1c8407f1b"
+    },
+    {
+      "company": "F1 Neumaticos",
+      "email": "info@f1neumaticos.com.ar",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "kart_tire",
+      "thread_id": "1a00fbc118b0f147"
+    },
+    {
+      "company": "Sporting Argentina",
+      "email": "info@sporting.com.ar",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "sports_apparel_argentina",
+      "thread_id": "1a00fbbb47df0695"
+    },
+    {
+      "company": "Grupo Carlos Karabitian",
+      "email": "ventas@karabitian.com.ar",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "automotive_argentina",
+      "thread_id": "1a00fbba831ceb9e"
+    },
+    {
+      "company": "Motomundo Racing",
+      "email": "motomundo@motomundo-racing.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "motorsport",
+      "thread_id": "1a00fbb9c0e7feed"
+    },
+    {
+      "company": "Irondriver",
+      "email": "ventas@irondriver.com.ar",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "karting_apparel_argentina",
+      "thread_id": "1a00fbb8f045168b"
+    },
+    {
+      "company": "ENA Sport Nutrition",
+      "email": "store@enasport.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a00fbb8590d5cf6"
+    },
+    {
+      "company": "Hawk Helmets",
+      "email": "info@hawkhelmets.com.ar",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "karting_helmet",
+      "thread_id": "1a00fbb78423ed17"
+    },
+    {
+      "company": "Compania Casco Argentina",
+      "email": "info@cascoargentina.com.ar",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "karting_helmet",
+      "thread_id": "1a00fbb6bc747d5e"
+    },
+    {
+      "company": "KDA Argentina",
+      "email": "info@kdakart.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a00fbb5f61902f1"
+    },
+    {
+      "company": "AT Racing",
+      "email": "info@atracing.com.ar",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "karting_argentina",
+      "thread_id": "1a00fbb02bfa02f4"
+    },
+    {
+      "company": "Italcorse Kart",
+      "email": "info@italcorse.eu",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a00fbaf95cf7ac9"
+    },
+    {
+      "company": "Top Kart Racing",
+      "email": "info@topkartracing.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a00fbaec7fb1c8b"
+    },
+    {
+      "company": "Maranello Kart Espana",
+      "email": "info@maranellokart.es",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a00fbae05645787"
+    },
+    {
+      "company": "Custom Racewear",
+      "email": "info@customracewear.co.uk",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a00fbad2ce9fe73"
+    },
+    {
+      "company": "Grand Prix Racewear",
+      "email": "info@gprdirect.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a00fbac78789d68"
+    },
+    {
+      "company": "FreeM Racing USA",
+      "email": "info@freemracing.us",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a00fbabaf31ccb7"
+    },
+    {
+      "company": "KYT Americas",
+      "email": "race@kytamericas.com",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "karting_helmet",
+      "thread_id": "1a00fbaaf1d33124"
     }
   ],
   "pending_response": [],
