@@ -2239,10 +2239,82 @@
       "status": "replied_interested",
       "category": "sports_nutrition",
       "thread_id": "1a00fbb8590d5cf6"
+    },
+    {
+      "company": "Righetti Ridolfi",
+      "email": "info@righettiridolfi.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f1d9b440c001cf"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19f9e570d4a4bbf1"
+    },
+    {
+      "company": "Hobie Eyewear",
+      "email": "affiliates@hobieeyewear.com",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19f9e56fe0d272b9"
+    },
+    {
+      "company": "Anycubic",
+      "email": "official@anycubic.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "19f4bfd60b5869aa"
+    },
+    {
+      "company": "Sovol3D",
+      "email": "ads@sovol3d.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a00a865f189b742"
+    },
+    {
+      "company": "Gerardi MotorSport",
+      "email": "info@gerardims.com",
+      "date": "2026-08-24",
+      "status": "sent",
+      "category": "motorsport_argentina",
+      "thread_id": "1a033bb899e0dd4a"
+    },
+    {
+      "company": "Bullion Eyewear",
+      "email": "info@bullioneyewear.com",
+      "date": "2026-08-24",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a033bb94c7d93d5"
+    },
+    {
+      "company": "INUTEQ",
+      "email": "support@inuteq.com",
+      "date": "2026-08-24",
+      "status": "sent",
+      "category": "motorsport_gear",
+      "thread_id": "1a033bba06367278"
+    },
+    {
+      "company": "Seat Concepts",
+      "email": "RiderSupport@SeatConcepts.com",
+      "date": "2026-08-24",
+      "status": "sent",
+      "category": "motorsport_gear",
+      "thread_id": "1a033bbabdf570df"
     }
   ],
   "pending_response": [],
   "blacklist": [],
   "note": "Gmail is the source of truth for dedup checks — this file lagged behind actual sent mail from 2026-07-01 through 2026-08-24 (many outreach emails sent in that window are not yet logged here). Always verify against Gmail (in:sent to:{domain}) before sending, per CLAUDE.md anti-duplicate rules.",
-  "last_updated": "2026-08-24T00:00:00.000Z"
+  "last_updated": "2026-08-24T13:00:00.000Z"
 }
