@@ -2199,9 +2199,50 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Hype Energy Drinks",
+      "email": "info@hype.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "1a00a86be1407945"
+    },
+    {
+      "company": "Autofull",
+      "email": "service@autofull.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "1a00a8541ed2be6b"
+    },
+    {
+      "company": "SmallRig",
+      "email": "marketing@smallrig.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "tech_cameras",
+      "thread_id": "1a00d7754893f9d8"
+    },
+    {
+      "company": "Precision Fuel & Hydration",
+      "email": "hello@precisionhydration.com",
+      "date": "2026-08-19",
+      "status": "replied_no",
+      "category": "sports_nutrition",
+      "thread_id": "1a019fed205458d3"
+    },
+    {
+      "company": "ENA Sport Nutrition",
+      "email": "store@enasport.com",
+      "date": "2026-08-17",
+      "status": "replied_interested",
+      "category": "sports_nutrition",
+      "thread_id": "1a00fbb8590d5cf6"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "note": "Gmail is the source of truth for dedup checks — this file lagged behind actual sent mail from 2026-07-01 through 2026-08-24 (many outreach emails sent in that window are not yet logged here). Always verify against Gmail (in:sent to:{domain}) before sending, per CLAUDE.md anti-duplicate rules.",
+  "last_updated": "2026-08-24T00:00:00.000Z"
 }
