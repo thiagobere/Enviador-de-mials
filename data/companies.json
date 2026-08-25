@@ -2199,9 +2199,57 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Autofull",
+      "email": "service@autofull.com",
+      "date": "2026-08-16",
+      "status": "replied_neutral",
+      "category": "tech_gaming_gear",
+      "thread_id": "1a00a8541ed2be6b"
+    },
+    {
+      "company": "SmallRig",
+      "email": "smallrig@smallrig.com",
+      "date": "2026-08-16",
+      "status": "replied_no",
+      "category": "tech_camera_gear",
+      "thread_id": "1a00d7754893f9d8"
+    },
+    {
+      "company": "INUTEQ",
+      "email": "support@inuteq.com",
+      "date": "2026-08-24",
+      "status": "replied_neutral",
+      "category": "apparel_cooling_tech",
+      "thread_id": "1a033bba06367278"
+    },
+    {
+      "company": "Seat Concepts",
+      "email": "RiderSupport@seatconcepts.com",
+      "date": "2026-08-24",
+      "status": "sent",
+      "category": "motorsport_seats",
+      "thread_id": "1a033bbabdf570df"
+    },
+    {
+      "company": "Bullion Eyewear",
+      "email": "info@bullioneyewear.com",
+      "date": "2026-08-24",
+      "status": "sent",
+      "category": "eyewear",
+      "thread_id": "1a033bb94c7d93d5"
+    },
+    {
+      "company": "Gerardi MotorSport",
+      "email": "info@gerardims.com",
+      "date": "2026-08-24",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a033bb899e0dd4a"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-08-25T00:00:00.000Z"
 }
