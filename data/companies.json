@@ -2199,9 +2199,42 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "BRM Racing",
+      "email": "brm@brmracing.it",
+      "date": "2026-08-29",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a04d753efe4d18e"
+    },
+    {
+      "company": "EKS Brand",
+      "email": "info@eksbrand.com",
+      "date": "2026-08-29",
+      "status": "sent",
+      "category": "motorsport_eyewear",
+      "thread_id": "1a04d754a182563a"
+    },
+    {
+      "company": "ShocSox",
+      "email": "Support@ShocSox.com",
+      "date": "2026-08-29",
+      "status": "sent",
+      "category": "motorsport_gear",
+      "thread_id": "1a04d7554515c12f"
+    },
+    {
+      "company": "Tiendas Kart Racing",
+      "email": "tiendaskart@gmail.com",
+      "date": "2026-08-29",
+      "status": "sent",
+      "category": "karting_store_argentina",
+      "thread_id": "1a04d7563c3180da"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-08-29T00:00:00.000Z",
+  "note": "IMPORTANT: This file was ~2 months stale as of 2026-08-29 (last real update 2026-07-01), while Gmail sent history (label Sponsor/Bot-Activo) shows continuous outreach through 2026-08-25 that was never recorded here (roughly 150-200 additional sent messages). Gmail is the source of truth per the anti-duplicate rules, and every new send in this run was verified live against Gmail (in:sent to:domain) rather than against this file. A dedicated reconciliation pass is recommended to backfill the missing ~2 months of contacted companies into this file so future runs can dedupe from the JSON directly instead of relying solely on live Gmail search."
 }
