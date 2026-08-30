@@ -1918,7 +1918,7 @@
       "date": "2026-06-28",
       "status": "replied_positive",
       "category": "general",
-      "thread_id": ""
+      "thread_id": "19eff75373912039"
     },
     {
       "company": "Timex",
@@ -2199,9 +2199,129 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "ShocSox",
+      "email": "Support@shocsox.com",
+      "date": "2026-08-29",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "1a04d7554515c12f"
+    },
+    {
+      "company": "EKS Brand",
+      "email": "info@eksbrand.com",
+      "date": "2026-08-29",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "1a04d754a182563a"
+    },
+    {
+      "company": "BRM Racing",
+      "email": "brm@brmracing.it",
+      "date": "2026-08-29",
+      "status": "replied_no",
+      "category": "karting_chassis",
+      "thread_id": "1a04d753efe4d18e"
+    },
+    {
+      "company": "Tiendas Kart Racing",
+      "email": "tiendaskart@gmail.com",
+      "date": "2026-08-29",
+      "status": "replied_positive",
+      "category": "karting",
+      "thread_id": "1a04d7563c3180da"
+    },
+    {
+      "company": "Gamer Advantage",
+      "email": "partnerships@gameradvantage.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19ec0e14c3c55bbb"
+    },
+    {
+      "company": "Pulse Racegear",
+      "email": "support@pulseracegear.com",
+      "date": "2026-08-03",
+      "status": "replied_interested",
+      "category": "motorsport_apparel",
+      "thread_id": "19fb33b296eb6c18"
+    },
+    {
+      "company": "Pure Fuel Sport",
+      "email": "info@purefuelsport.com",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19ff5f64bb274109"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19f9e570d4a4bbf1"
+    },
+    {
+      "company": "Hobie Eyewear",
+      "email": "affiliates@hobieeyewear.com",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19f9e56fe0d272b9"
+    },
+    {
+      "company": "Croc Promotion",
+      "email": "info@crocpromotion.us",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "karting_gear",
+      "thread_id": "1a00a8675006dca2"
+    },
+    {
+      "company": "Empowered PC",
+      "email": "support@empoweredpc.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "tech_hardware",
+      "thread_id": "19f608a253287ad6"
+    },
+    {
+      "company": "H3R Performance",
+      "email": "h3rinfo@h3rperformance.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "19f608a1ef577cc0"
+    },
+    {
+      "company": "Coyote Motorsports",
+      "email": "coyotekart@gmail.com",
+      "date": "2026-07-01",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f134cdd370f8ad"
+    },
+    {
+      "company": "Motor Milk",
+      "email": "info@motor-milk.com",
+      "date": "2026-08-30",
+      "status": "sent",
+      "category": "automotive_lubricant",
+      "thread_id": "1a0529931bca6874"
+    },
+    {
+      "company": "Makenica",
+      "email": "support@makenica.com",
+      "date": "2026-08-30",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a052993a4809c8b"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-08-30T00:00:00.000Z"
 }
