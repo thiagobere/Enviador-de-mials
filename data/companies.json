@@ -2199,9 +2199,185 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Just1 Racing",
+      "email": "info@just1racing.com",
+      "date": "2026-08-19",
+      "status": "sent",
+      "category": "karting_helmet",
+      "thread_id": "1a019fb12ff4d504"
+    },
+    {
+      "company": "NEXX Helmets",
+      "email": "RS@nexx-usa.com",
+      "date": "2026-08-19",
+      "status": "sent",
+      "category": "karting_helmet",
+      "thread_id": "1a019fb1a7cd79ad"
+    },
+    {
+      "company": "Righetti Ridolfi",
+      "email": "info@righettiridolfi.com",
+      "date": "2026-07-06",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f1d9b440c001cf"
+    },
+    {
+      "company": "Sodikart",
+      "email": "info@sodikart.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f4bfd4b1b9fdca"
+    },
+    {
+      "company": "Kart Republic",
+      "email": "info@kartrepublic.com",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19ed57d812ff60a3"
+    },
+    {
+      "company": "LeCont Racing Tyres",
+      "email": "commerciale@lecont.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "kart_tire",
+      "thread_id": "19fa38de10a44314"
+    },
+    {
+      "company": "Pirelli",
+      "email": "ptna.pr@pirelli.com",
+      "date": "2026-08-14",
+      "status": "sent",
+      "category": "automotive_tire",
+      "thread_id": "1a00053d0242a67a"
+    },
+    {
+      "company": "Pulsar Gaming Gears",
+      "email": "pr@pulsar.gg",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "gaming_peripheral",
+      "thread_id": "19f4bfda81fb37dc"
+    },
+    {
+      "company": "Redragon",
+      "email": "marketing@redragonshop.com",
+      "date": "2026-08-14",
+      "status": "sent",
+      "category": "gaming_peripheral",
+      "thread_id": "1a00053c210fd058"
+    },
+    {
+      "company": "CAMMUS",
+      "email": "media@cammus.com",
+      "date": "2026-07-15",
+      "status": "replied_interested",
+      "category": "sim_racing_hardware",
+      "thread_id": "19f6470970f1a23f"
+    },
+    {
+      "company": "Anycubic",
+      "email": "official@anycubic.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "19f4bfd60b5869aa"
+    },
+    {
+      "company": "Racechick",
+      "email": "info@racechick.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "racing_lifestyle_apparel",
+      "thread_id": "19ec0e705be18073"
+    },
+    {
+      "company": "Belo",
+      "email": "empresas@belo.app",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "fintech_argentina",
+      "thread_id": "19fc79aac7ca24f5"
+    },
+    {
+      "company": "Beon Helmets",
+      "email": "beon@beonhelmets.com",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "karting_helmet",
+      "thread_id": "1a05cf8836ba0eb1"
+    },
+    {
+      "company": "FreeM Racewear",
+      "email": "contact@freem.fr",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "karting_suit",
+      "thread_id": "1a05cf8900e98100"
+    },
+    {
+      "company": "Kartsuit Store",
+      "email": "sales@kartsuit.store",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "karting_suit",
+      "thread_id": "1a05cf89c293ec83"
+    },
+    {
+      "company": "Minus 273",
+      "email": "biz@minus273.biz",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "karting_gloves",
+      "thread_id": "1a05cf8a7a7d4379"
+    },
+    {
+      "company": "EwinRacing",
+      "email": "Sponsorship@ewinracing.com",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "gaming_chair",
+      "thread_id": "1a05cf8b5cf7ed48"
+    },
+    {
+      "company": "Racing Indumentaria",
+      "email": "racingindu@gmail.com",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a05cf8c0d8b270a"
+    },
+    {
+      "company": "O'Neal Racing USA",
+      "email": "mshear@onealusa.com",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a05cf8ce8a21fa0"
+    },
+    {
+      "company": "Fly Racing",
+      "email": "raceadmin@flyracing.com",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a05cf8d90172384"
+    },
+    {
+      "company": "Capture The World Apparel",
+      "email": "d.carmichael@capturetheworldapparel.com",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "racing_lifestyle_apparel",
+      "thread_id": "1a05cf8e5af81681"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-01T00:00:00.000Z"
 }
