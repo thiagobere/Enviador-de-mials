@@ -870,7 +870,7 @@
       "date": "2026-06-24",
       "status": "replied_positive",
       "category": "energy_drink",
-      "thread_id": ""
+      "thread_id": "19eb695be46b5fa8"
     },
     {
       "company": "Ghost Lifestyle",
@@ -1166,7 +1166,7 @@
       "date": "2026-06-24",
       "status": "replied_positive",
       "category": "energy_drink",
-      "thread_id": ""
+      "thread_id": "19ebbbc6272ac78d"
     },
     {
       "company": "ROKA",
@@ -1822,7 +1822,7 @@
       "date": "2026-06-28",
       "status": "replied_positive",
       "category": "general",
-      "thread_id": ""
+      "thread_id": "19f08fc62abdc81d"
     },
     {
       "company": "Proton VPN",
@@ -1918,7 +1918,7 @@
       "date": "2026-06-28",
       "status": "replied_positive",
       "category": "general",
-      "thread_id": ""
+      "thread_id": "19eff75373912039"
     },
     {
       "company": "Timex",
@@ -2116,9 +2116,9 @@
       "company": "NordVPN",
       "email": "affiliate@nordvpnmedia.com",
       "date": "2026-07-01",
-      "status": "sent",
+      "status": "replied_no",
       "category": "general",
-      "thread_id": ""
+      "thread_id": "19ec6112f30b33ba"
     },
     {
       "company": "Nutrabolics",
@@ -2199,9 +2199,177 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Hype Energy Drinks",
+      "email": "info@hype.com",
+      "date": "2026-08-16",
+      "status": "replied_interested",
+      "category": "energy_drink",
+      "thread_id": "1a00a86be1407945"
+    },
+    {
+      "company": "Mishimoto",
+      "email": "sponsorship@mishimoto.com",
+      "date": "2026-06-20",
+      "status": "replied_interested",
+      "category": "automotive",
+      "thread_id": "19ec0e5d6a7703bf"
+    },
+    {
+      "company": "Hearth",
+      "email": "hello@drinkhearth.com",
+      "date": "2026-08-03",
+      "status": "replied_no",
+      "category": "energy_drink",
+      "thread_id": "19fc79aeb90b9d2d"
+    },
+    {
+      "company": "Pulse Racegear",
+      "email": "support@pulseracegear.com",
+      "date": "2026-08-03",
+      "status": "replied_positive",
+      "category": "motorsport_apparel",
+      "thread_id": "19fb33b296eb6c18"
+    },
+    {
+      "company": "Govee",
+      "email": "affiliate@govee.com",
+      "date": "2026-08-03",
+      "status": "replied_no",
+      "category": "tech_hardware",
+      "thread_id": "19f9e56e7b73396f"
+    },
+    {
+      "company": "Airoh",
+      "email": "info@airoh.com",
+      "date": "2026-07-27",
+      "status": "replied_no",
+      "category": "motorsport_gear",
+      "thread_id": "19fa38dec72f698d"
+    },
+    {
+      "company": "Porsche Motorsport",
+      "email": "motorsport-partner@porsche.de",
+      "date": "2026-07-15",
+      "status": "replied_no",
+      "category": "automotive",
+      "thread_id": "19f608a0cdc7edb6"
+    },
+    {
+      "company": "CAMMUS Racing",
+      "email": "cammusofficial@gmail.com",
+      "date": "2026-06-20",
+      "status": "replied_positive",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3d77a79857"
+    },
+    {
+      "company": "Transparent Labs",
+      "email": "support@transparentlabs.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19f563ddd318b16b"
+    },
+    {
+      "company": "Empowered PC",
+      "email": "support@empoweredpc.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "tech_hardware",
+      "thread_id": "19f608a253287ad6"
+    },
+    {
+      "company": "colorFabb",
+      "email": "info@colorfabb.com",
+      "date": "2026-09-08",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a080f5d36b2f4e4"
+    },
+    {
+      "company": "Mango3D / Lychee",
+      "email": "partners@mango3d.io",
+      "date": "2026-09-08",
+      "status": "sent",
+      "category": "3d_printing_software",
+      "thread_id": "1a080f5dead5893e"
+    },
+    {
+      "company": "Hublot",
+      "email": "partnerships@hublot.com",
+      "date": "2026-09-08",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a080f5eb3b0c79d"
+    },
+    {
+      "company": "Edox",
+      "email": "info@edox.com",
+      "date": "2026-09-08",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a080f5f52ed0e63"
+    },
+    {
+      "company": "VI-grade",
+      "email": "info@vi-grade.com",
+      "date": "2026-09-08",
+      "status": "sent",
+      "category": "engineering_simulation",
+      "thread_id": "1a080f603ff85b75"
+    },
+    {
+      "company": "SOLIDWORKS",
+      "email": "info@solidworks.com",
+      "date": "2026-09-08",
+      "status": "sent",
+      "category": "engineering_cad",
+      "thread_id": "1a080f611867c8d7"
+    },
+    {
+      "company": "MSC Software",
+      "email": "info@mscsoftware.com",
+      "date": "2026-09-08",
+      "status": "sent",
+      "category": "engineering_cae",
+      "thread_id": "1a080f61df4d0047"
+    },
+    {
+      "company": "Formlabs",
+      "email": "ambassadors@formlabs.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "19f4bfd6dda00bcb"
+    },
+    {
+      "company": "Hoosier Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tires",
+      "thread_id": "19ec0e1370ee6e64"
+    },
+    {
+      "company": "Yeyian Gaming",
+      "email": "marketing@yeyiangaming.com",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19fc79b187e3c335"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19f9e570d4a4bbf1"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-08T12:20:34.926Z"
 }
