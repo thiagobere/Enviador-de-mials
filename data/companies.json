@@ -2199,9 +2199,58 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "CAMMUS Racing",
+      "email": "cammusofficial@gmail.com",
+      "date": "2026-06-20",
+      "status": "replied_interested",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3d77a79857"
+    },
+    {
+      "company": "CAMMUS",
+      "email": "eva@cammus.com",
+      "date": "2026-07-15",
+      "status": "replied_interested",
+      "category": "sim_racing_hardware",
+      "thread_id": "19f6470970f1a23f"
+    },
+    {
+      "company": "Pulse Racegear",
+      "email": "support@pulseracegear.com",
+      "date": "2026-08-03",
+      "status": "replied_interested",
+      "category": "motorsport_apparel",
+      "thread_id": "19fb33b296eb6c18"
+    },
+    {
+      "company": "MT Helmets",
+      "email": "info@mthelmets.com",
+      "date": "2026-08-16",
+      "status": "bounce",
+      "category": "motorsport_gear",
+      "thread_id": "1a00a86b4d0677a0"
+    },
+    {
+      "company": "Hearth",
+      "email": "hello@drinkhearth.com",
+      "date": "2026-08-03",
+      "status": "replied_no",
+      "category": "general",
+      "thread_id": "19fc79aeb90b9d2d"
+    },
+    {
+      "company": "Konig Wheels",
+      "email": "sponsorship@konigwheels.com",
+      "date": "2026-09-03",
+      "status": "replied_no",
+      "category": "automotive",
+      "thread_id": "1a06735f4ccf1935"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-09T00:00:00.000Z",
+  "_note": "DB reconciliation gap detected 2026-09-09: Gmail shows 201 'Sponsorship Partnership' sent threads since 2026-07-01 (last_updated before this fix), but this file had zero new entries in that window. Outreach continued daily (last batch 2026-09-08, 7 companies) without persisting to this DB — a violation of rule 5 (save immediately after each send). Only the entries with substantive replies observed during this run were reconciled above; the majority of the 201 sent-only emails from that gap are NOT yet reflected here. Gmail remains the source of truth for dedup per the golden rule, but this file's 'sent' coverage is incomplete until fully backfilled."
 }
