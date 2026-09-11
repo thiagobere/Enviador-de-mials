@@ -3359,6 +3359,62 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "RACEMAX",
+      "email": "contact@racemaxsport.com",
+      "date": "2026-08-14",
+      "status": "sent",
+      "category": "general",
+      "thread_id": ""
+    },
+    {
+      "company": "Raceday Safety",
+      "email": "orders@racedaysafety.com",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "general",
+      "thread_id": ""
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "general",
+      "thread_id": ""
+    },
+    {
+      "company": "U.S. Elite Gear",
+      "email": "influencers@us-elitegear.com",
+      "date": "2026-09-11",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "1a09069f69d9211d"
+    },
+    {
+      "company": "Conquer Helmets",
+      "email": "sponsor@conquerequipment.com",
+      "date": "2026-09-11",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "1a0906a02dee0740"
+    },
+    {
+      "company": "VIFLY Drone",
+      "email": "sales@viflydrone.com",
+      "date": "2026-09-11",
+      "status": "sent",
+      "category": "tech_cameras",
+      "thread_id": "1a0906a11ae245a3"
+    },
+    {
+      "company": "ShowCar Ceramics",
+      "email": "contact@showcarcare.com",
+      "date": "2026-09-11",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a0906a1b12b51b0"
     }
   ],
   "pending_response": [],
