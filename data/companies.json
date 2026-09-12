@@ -2199,9 +2199,122 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Hearth",
+      "email": "hello@drinkhearth.com",
+      "date": "2026-08-03",
+      "status": "replied_no",
+      "category": "energy_drink",
+      "thread_id": "19fc79aeb90b9d2d"
+    },
+    {
+      "company": "Kaged Muscle",
+      "email": "support@kaged.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19f9e571670cb14b"
+    },
+    {
+      "company": "Airoh",
+      "email": "info@airoh.com",
+      "date": "2026-07-27",
+      "status": "replied_no",
+      "category": "motorsport_gear",
+      "thread_id": "19fa38dec72f698d"
+    },
+    {
+      "company": "Anycubic",
+      "email": "official@anycubic.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "19f643d4febbba5e"
+    },
+    {
+      "company": "Transparent Labs",
+      "email": "support@transparentlabs.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19f563ddd318b16b"
+    },
+    {
+      "company": "Empowered PC",
+      "email": "support@empoweredpc.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "tech_hardware",
+      "thread_id": "19f608a253287ad6"
+    },
+    {
+      "company": "Xtrfy",
+      "email": "info@xtrfy.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "1a00a8556f3bae8d"
+    },
+    {
+      "company": "The One Glove",
+      "email": "sponsorship@theoneglove.com",
+      "date": "2026-09-12",
+      "status": "sent",
+      "category": "motorsport_gear",
+      "thread_id": "1a095894436eb34d"
+    },
+    {
+      "company": "Owala",
+      "email": "marketing@owalalife.com",
+      "date": "2026-09-12",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "1a09589510aa22f4"
+    },
+    {
+      "company": "HydraLyte",
+      "email": "partnerships@hydralyte.com",
+      "date": "2026-09-12",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a095895d4c93399"
+    },
+    {
+      "company": "Hyro",
+      "email": "hello@drinkhyro.com",
+      "date": "2026-09-12",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a0958966551d527"
+    },
+    {
+      "company": "Racer Gloves USA",
+      "email": "Hello@racerglovesusa.com",
+      "date": "2026-09-12",
+      "status": "sent",
+      "category": "motorsport_gear",
+      "thread_id": "1a095897319ccba9"
+    },
+    {
+      "company": "Motocal",
+      "email": "info@motocal.com",
+      "date": "2026-09-12",
+      "status": "sent",
+      "category": "karting_graphics",
+      "thread_id": "1a095897f87f99ee"
+    },
+    {
+      "company": "The Decal Zone",
+      "email": "info.thedecalzone@gmail.com",
+      "date": "2026-09-12",
+      "status": "sent",
+      "category": "karting_graphics",
+      "thread_id": "1a095898ba9e2231"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-12T00:00:00.000Z",
+  "note": "JSON was stale (last_updated 2026-07-01) while Gmail sent history shows daily outreach continued through 2026-09-11 (~150 companies not backfilled here). Gmail was used as source of truth for anti-duplicate checks on 2026-09-12's run per CLAUDE.md rule. Recommend a one-time backfill of the 2026-07-01..2026-09-11 gap from Gmail sent history."
 }
