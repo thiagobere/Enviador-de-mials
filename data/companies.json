@@ -2199,6 +2199,70 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Cocos Capital",
+      "email": "jobs@cocos.capital",
+      "date": "2026-07-27",
+      "status": "replied_interested",
+      "category": "fintech_argentina",
+      "thread_id": "19fa39244249af20"
+    },
+    {
+      "company": "IPONE",
+      "email": "silvia.defeo@wakefield.com.ar",
+      "date": "2026-09-15",
+      "status": "replied_interested",
+      "category": "motorsport_lubricant",
+      "thread_id": "1a0a47f237ce61e6"
+    },
+    {
+      "company": "Troy Lee Designs",
+      "email": "bike_sponsorship@troyleedesigns.com",
+      "date": "2026-09-14",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a09fde23c56e795"
+    },
+    {
+      "company": "Fox Racing",
+      "email": "info@foxracing.com",
+      "date": "2026-09-14",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a09fde161b34805"
+    },
+    {
+      "company": "REV'IT!",
+      "email": "info@revitsport.com",
+      "date": "2026-09-14",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a09fde0ec71b55d"
+    },
+    {
+      "company": "Phanteks",
+      "email": "info@phanteks.com",
+      "date": "2026-09-14",
+      "status": "sent",
+      "category": "tech_hardware",
+      "thread_id": "1a09fddfefcd438f"
+    },
+    {
+      "company": "WMP Eyewear",
+      "email": "service@wmpeyewear.com",
+      "date": "2026-09-14",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a09fddf34d3841a"
+    },
+    {
+      "company": "SIM1Racing",
+      "email": "info@sim1racing.com",
+      "date": "2026-09-14",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a09fdde7d83dea3"
     }
   ],
   "pending_response": [],
