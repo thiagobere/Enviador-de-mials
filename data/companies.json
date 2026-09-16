@@ -2199,9 +2199,65 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "CAMMUS Racing",
+      "email": "cammusofficial@gmail.com",
+      "date": "2026-06-20",
+      "status": "replied_interested",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3d77a79857"
+    },
+    {
+      "company": "Hoosier Racing Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "kart_racing_tire",
+      "thread_id": "19ec0e1370ee6e64"
+    },
+    {
+      "company": "Mavix",
+      "email": "service@mavix.com",
+      "date": "2026-08-13",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19ff5f63fba36001"
+    },
+    {
+      "company": "Kaged Muscle",
+      "email": "support@kaged.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19f9e571670cb14b"
+    },
+    {
+      "company": "GORGIE",
+      "email": "hello@getgorgie.com",
+      "date": "2026-09-16",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "1a0aa25d571185d3"
+    },
+    {
+      "company": "Apex Suits",
+      "email": "hello@apexsuits.co.uk",
+      "date": "2026-09-16",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a0aa25e18c86dd0"
+    },
+    {
+      "company": "Delta Racewear",
+      "email": "info@deltaracewear.com",
+      "date": "2026-09-16",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a0aa25ed1a42a74"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-16T00:00:00.000Z"
 }
