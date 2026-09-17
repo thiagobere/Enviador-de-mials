@@ -2199,9 +2199,81 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Delta Racewear",
+      "email": "info@deltaracewear.com",
+      "date": "2026-09-16",
+      "status": "bounce",
+      "category": "motorsport_apparel",
+      "thread_id": "1a0aa25ed1a42a74"
+    },
+    {
+      "company": "Apex Suits",
+      "email": "hello@apexsuits.co.uk",
+      "date": "2026-09-16",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a0aa25e18c86dd0"
+    },
+    {
+      "company": "GORGIE",
+      "email": "hello@getgorgie.com",
+      "date": "2026-09-16",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a0aa25d571185d3"
+    },
+    {
+      "company": "CAMMUS Racing",
+      "email": "cammusofficial@gmail.com",
+      "date": "2026-06-20",
+      "status": "replied_interested",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3d77a79857"
+    },
+    {
+      "company": "LS2 Helmets",
+      "email": "marketing@ls2helmets.com",
+      "date": "2026-06-24",
+      "status": "sent",
+      "category": "karting_helmet",
+      "thread_id": "19ef466a8b5f380d"
+    },
+    {
+      "company": "Gamer Advantage",
+      "email": "partnerships@gameradvantage.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19ec0e14c3c55bbb"
+    },
+    {
+      "company": "Greenball Tires",
+      "email": "sponsorship@greenball.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "kart_racing_tire",
+      "thread_id": "19f5b663cfb99a4f"
+    },
+    {
+      "company": "Ascher Racing",
+      "email": "info@ascher-racing.com",
+      "date": "2026-09-17",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a0af48f43d769e2"
+    },
+    {
+      "company": "Protoplant",
+      "email": "support@protoplant.com",
+      "date": "2026-09-17",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a0af49019dfaf61"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-17T00:00:00.000Z"
 }
