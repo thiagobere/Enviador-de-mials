@@ -2207,9 +2207,201 @@
       "status": "replied_interested",
       "category": "sim_racing_hardware",
       "thread_id": "19edaa3d77a79857"
+    },
+    {
+      "company": "Sodikart",
+      "email": "info@sodikart.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f4bfd4b1b9fdca"
+    },
+    {
+      "company": "Freem Racing USA",
+      "email": "info@freemracing.us",
+      "date": "2026-08-17",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a00fbabaf31ccb7"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19fa38e4d475cfa1"
+    },
+    {
+      "company": "Hobie Eyewear",
+      "email": "affiliates@hobieeyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19fa38e59f64a352"
+    },
+    {
+      "company": "UPTIME Energy",
+      "email": "customerservice@uptimeenergy.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "19fa391d52dfd521"
+    },
+    {
+      "company": "Function Factory Performance",
+      "email": "sales@ffperformance.co",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "19fa390f179d7fd5"
+    },
+    {
+      "company": "Hoosier Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tire",
+      "thread_id": "19ec0e1370ee6e64"
+    },
+    {
+      "company": "be quiet!",
+      "email": "info@bequiet.com",
+      "date": "2026-08-19",
+      "status": "sent",
+      "category": "tech_hardware",
+      "thread_id": "1a019fe03e198fc9"
+    },
+    {
+      "company": "Phanteks",
+      "email": "info@phanteks.com",
+      "date": "2026-09-14",
+      "status": "sent",
+      "category": "tech_hardware",
+      "thread_id": "1a09fddfefcd438f"
+    },
+    {
+      "company": "Spec9 Eyewear",
+      "email": "support@spec9s.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19fa38e41b054d58"
+    },
+    {
+      "company": "Coyote Motorsports",
+      "email": "coyotekart@gmail.com",
+      "date": "2026-07-01",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19f134cdd370f8ad"
+    },
+    {
+      "company": "Intrepid Driver Program",
+      "email": "info@intrepiddriverprogram.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "19fa38dc8cad674e"
+    },
+    {
+      "company": "Simucube",
+      "email": "info@simucube.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3e2eb886a4"
+    },
+    {
+      "company": "Floating Grip",
+      "email": "contact@floatinggriptrading.com",
+      "date": "2026-09-18",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "1a0b47227bf9fadc"
+    },
+    {
+      "company": "IC3D Printers",
+      "email": "support@ic3dprinters.com",
+      "date": "2026-09-18",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a0b4723305dfb74"
+    },
+    {
+      "company": "Tomahawk Shades",
+      "email": "tomahawkshades@gmail.com",
+      "date": "2026-09-18",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a0b4723ec087388"
+    },
+    {
+      "company": "Moradness",
+      "email": "customer@moradness.com",
+      "date": "2026-09-18",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a0b4724a819a0e4"
+    },
+    {
+      "company": "Minus 273",
+      "email": "biz@minus273.biz",
+      "date": "2026-09-01",
+      "status": "sent",
+      "category": "motorsport_gear",
+      "thread_id": "1a05cf8a7a7d4379"
+    },
+    {
+      "company": "RSeat",
+      "email": "info@rseat.net",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a00a85123527eb5"
+    },
+    {
+      "company": "Stranger Watches",
+      "email": "info@strangertime.com",
+      "date": "2026-09-18",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a0b472ef143fe88"
+    },
+    {
+      "company": "Jorg Gray",
+      "email": "JGONLINE@JORGGRAY.COM",
+      "date": "2026-09-18",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a0b472faa332e75"
+    },
+    {
+      "company": "AimControllers",
+      "email": "partnership@aimcontrollers.com",
+      "date": "2026-09-18",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "1a0b473af31adaf6"
+    },
+    {
+      "company": "Caseco",
+      "email": "sales@casecoinc.com",
+      "date": "2026-09-18",
+      "status": "sent",
+      "category": "tech_accessories",
+      "thread_id": "1a0b47434acec849"
+    },
+    {
+      "company": "Case-Mate",
+      "email": "support@case-mate.com",
+      "date": "2026-09-18",
+      "status": "sent",
+      "category": "tech_accessories",
+      "thread_id": "1a0b4743f97ab2e7"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-18T12:18:39.913261Z"
 }
