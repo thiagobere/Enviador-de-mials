@@ -324,9 +324,9 @@
       "company": "Bang Energy",
       "email": "ambassadors@bangenergy.com",
       "date": "2026-06-15",
-      "status": "sent",
+      "status": "replied_no",
       "category": "energy_drink",
-      "thread_id": ""
+      "thread_id": "19efa7398c140295"
     },
     {
       "company": "Blenders Eyewear",
@@ -908,9 +908,9 @@
       "company": "Hammer Nutrition",
       "email": "sponsorship@hammernutrition.com",
       "date": "2026-06-24",
-      "status": "sent",
+      "status": "replied_no",
       "category": "sports_nutrition",
-      "thread_id": ""
+      "thread_id": "19eef3b6b2524f40"
     },
     {
       "company": "Intel",
@@ -1340,9 +1340,9 @@
       "company": "Alani Nu",
       "email": "contact@alaninu.com",
       "date": "2026-06-28",
-      "status": "sent",
+      "status": "replied_no",
       "category": "general",
-      "thread_id": ""
+      "thread_id": "19f14586f3b079ba"
     },
     {
       "company": "Alienware",
@@ -1628,7 +1628,7 @@
       "company": "LIQUI-MOLY",
       "email": "sponsoring@liqui-moly.de",
       "date": "2026-06-28",
-      "status": "sent",
+      "status": "replied_no",
       "category": "general",
       "thread_id": ""
     },
@@ -2199,6 +2199,238 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Ascher Racing",
+      "email": "info@ascher-racing.com",
+      "date": "2026-09-17",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a0af48f43d769e2"
+    },
+    {
+      "company": "Makenica",
+      "email": "support@makenica.com",
+      "date": "2026-08-30",
+      "status": "sent",
+      "category": "tech_3d_printing",
+      "thread_id": "1a052993a4809c8b"
+    },
+    {
+      "company": "TONOR",
+      "email": "partnerships@tonormic.com",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19fb33b3f601c3a3"
+    },
+    {
+      "company": "Gruppo Nutrition",
+      "email": "mackenzie@grupponutrition.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19ef46639939d66a"
+    },
+    {
+      "company": "Gamer Advantage",
+      "email": "partnerships@gameradvantage.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "19ec0e14c3c55bbb"
+    },
+    {
+      "company": "Simucube",
+      "email": "info@simucube.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3e2eb886a4"
+    },
+    {
+      "company": "Bell Racing (RacingForce)",
+      "email": "info.rfi@racingforce.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_helmet",
+      "thread_id": "19edfc82e36f20c5"
+    },
+    {
+      "company": "Hobie Eyewear",
+      "email": "affiliates@hobieeyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses_racing",
+      "thread_id": "19fa38e59f64a352"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses_racing",
+      "thread_id": "19f9e570d4a4bbf1"
+    },
+    {
+      "company": "Marketing Registrado",
+      "email": "info@mktragency.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sports_marketing_argentina",
+      "thread_id": "19fa38e119be860a"
+    },
+    {
+      "company": "Greenball Tires",
+      "email": "sponsorship@greenball.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "kart_tire",
+      "thread_id": "19f5b663cfb99a4f"
+    },
+    {
+      "company": "Peppers Polarized Sunglasses",
+      "email": "inform@peppersusa.com",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "sunglasses_racing",
+      "thread_id": "19ed57b57cbe06aa"
+    },
+    {
+      "company": "UVI Esports",
+      "email": "sponsorship@uvi.gg",
+      "date": "2026-06-24",
+      "status": "sent",
+      "category": "esports",
+      "thread_id": "19ef4669a7871328"
+    },
+    {
+      "company": "Hoosier Racing Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "kart_tire",
+      "thread_id": "19ec0e1370ee6e64"
+    },
+    {
+      "company": "Vega USA",
+      "email": "info@vegausa.com",
+      "date": "2026-06-18",
+      "status": "sent",
+      "category": "kart_tire",
+      "thread_id": "19ed57adc8b557d5"
+    },
+    {
+      "company": "Champion Racing Oil",
+      "email": "racer@championbrands.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "lubricant_motorsport",
+      "thread_id": "19fa3916872fe4ea"
+    },
+    {
+      "company": "Rotax Argentina",
+      "email": "info@rotaxargentina.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_engine",
+      "thread_id": "19ee4eef9cd4e69f"
+    },
+    {
+      "company": "Cingolani Motors",
+      "email": "info@cingolanimotors.com.ar",
+      "date": "2026-09-06",
+      "status": "sent",
+      "category": "karting_argentina",
+      "thread_id": "1a076b22d9ee1bc8"
+    },
+    {
+      "company": "GC Racing",
+      "email": "info@gcracing.com.ar",
+      "date": "2026-08-19",
+      "status": "sent",
+      "category": "karting_argentina",
+      "thread_id": "1a019fc87209b537"
+    },
+    {
+      "company": "Inoriza Racing",
+      "email": "info@inorizaracing.com.ar",
+      "date": "2026-08-19",
+      "status": "sent",
+      "category": "karting_argentina",
+      "thread_id": "1a019fc7d30fe028"
+    },
+    {
+      "company": "Ridemax",
+      "email": "info@ridemax.com.ar",
+      "date": "2025-07-24",
+      "status": "sent",
+      "category": "karting_argentina",
+      "thread_id": "1983d5e7790c4338"
+    },
+    {
+      "company": "Tiendas Kart Racing (TKR)",
+      "email": "tiendaskart@gmail.com",
+      "date": "2026-08-29",
+      "status": "replied_interested",
+      "category": "karting_argentina",
+      "thread_id": "1a04d7563c3180da"
+    },
+    {
+      "company": "PRONEC",
+      "email": "info@pronec.com.ar",
+      "date": "2026-09-21",
+      "status": "sent",
+      "category": "kart_racing_tire",
+      "thread_id": "1a0c3e777b19a21d"
+    },
+    {
+      "company": "Tridit",
+      "email": "info@tridit.com.ar",
+      "date": "2026-09-21",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a0c3e787c9ac106"
+    },
+    {
+      "company": "Solidos",
+      "email": "contacto@solidos.com.ar",
+      "date": "2026-09-21",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a0c3e795de1bca8"
+    },
+    {
+      "company": "IAME Argentina (Kda Argentina)",
+      "email": "kali@kali.com.ar",
+      "date": "2026-09-21",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a0c3e7a4c120dcd"
+    },
+    {
+      "company": "TernengoKart",
+      "email": "ternengokart@gmail.com",
+      "date": "2026-09-21",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a0c3e7b21e5df73"
+    },
+    {
+      "company": "CAMMUS Racing",
+      "email": "cammusofficial@gmail.com",
+      "date": "2026-06-20",
+      "status": "replied_interested",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3d77a79857"
+    },
+    {
+      "company": "IC3D Printers",
+      "email": "support@ic3dprinters.com",
+      "date": "2026-09-18",
+      "status": "replied_no",
+      "category": "3d_printing",
+      "thread_id": "1a0b4723305dfb74"
     }
   ],
   "pending_response": [],
