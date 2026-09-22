@@ -1340,9 +1340,9 @@
       "company": "Alani Nu",
       "email": "contact@alaninu.com",
       "date": "2026-06-28",
-      "status": "sent",
+      "status": "replied_no",
       "category": "general",
-      "thread_id": ""
+      "thread_id": "19f14586f3b079ba"
     },
     {
       "company": "Alienware",
@@ -2203,5 +2203,5 @@
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-22T00:00:00.000Z"
 }
