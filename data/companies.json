@@ -2199,9 +2199,97 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Pulse Racegear",
+      "email": "support@pulseracegear.com",
+      "date": "2026-08-03",
+      "status": "replied_interested",
+      "category": "karting_gear",
+      "thread_id": "19fb33b296eb6c18"
+    },
+    {
+      "company": "Race Day Safety",
+      "email": "orders@racedaysafety.com",
+      "date": "2026-08-03",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19fb33b346206d13"
+    },
+    {
+      "company": "RaceChick",
+      "email": "info@racechick.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "racing_lifestyle",
+      "thread_id": "19ec0e705be18073"
+    },
+    {
+      "company": "Conspit",
+      "email": "info@conspit.com",
+      "date": "2025-07-10",
+      "status": "replied_interested",
+      "category": "sim_racing_hardware",
+      "thread_id": "197f4e08d1090218"
+    },
+    {
+      "company": "Hobie Eyewear",
+      "email": "affiliates@hobieeyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19f9e56fe0d272b9"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19f9e570d4a4bbf1"
+    },
+    {
+      "company": "Apexlap",
+      "email": "hola@apexlap.com",
+      "date": "2026-09-23",
+      "status": "sent",
+      "category": "motorsport",
+      "thread_id": "1a0ce35ef885758b"
+    },
+    {
+      "company": "Fuel Supplements",
+      "email": "burnaby@fuelsupplements.com",
+      "date": "2026-09-23",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a0ce35fb636e43f"
+    },
+    {
+      "company": "PCBWay",
+      "email": "sponsor@pcbway.com",
+      "date": "2026-09-23",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a0ce36067ddca62"
+    },
+    {
+      "company": "Animal Pak",
+      "email": "info@animalpak.com",
+      "date": "2026-09-23",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a0ce361f4b35ff8"
+    },
+    {
+      "company": "Thorne",
+      "email": "ambassador@thorne.com",
+      "date": "2026-09-23",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a0ce36308e59688"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-23T00:00:00.000Z"
 }
