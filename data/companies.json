@@ -1340,9 +1340,9 @@
       "company": "Alani Nu",
       "email": "contact@alaninu.com",
       "date": "2026-06-28",
-      "status": "sent",
+      "status": "replied_no",
       "category": "general",
-      "thread_id": ""
+      "thread_id": "19f14586f3b079ba"
     },
     {
       "company": "Alienware",
@@ -2199,9 +2199,89 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "CAMMUS Racing",
+      "email": "cammusofficial@gmail.com",
+      "date": "2026-09-16",
+      "status": "replied_positive",
+      "category": "sim_racing_hardware",
+      "thread_id": "19edaa3d77a79857"
+    },
+    {
+      "company": "Delta Racewear",
+      "email": "info@deltaracewear.com",
+      "date": "2026-09-16",
+      "status": "bounce",
+      "category": "motorsport_apparel",
+      "thread_id": "1a0aa25ed1a42a74"
+    },
+    {
+      "company": "Protoplant",
+      "email": "support@protoplant.com",
+      "date": "2026-09-17",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a0af49019dfaf61"
+    },
+    {
+      "company": "Apexlap",
+      "email": "hola@apexlap.com",
+      "date": "2026-09-23",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "1a0ce35ef885758b"
+    },
+    {
+      "company": "Fuel Supplements",
+      "email": "burnaby@fuelsupplements.com",
+      "date": "2026-09-23",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a0ce35fb636e43f"
+    },
+    {
+      "company": "PCBWay",
+      "email": "sponsor@pcbway.com",
+      "date": "2026-09-23",
+      "status": "replied_interested",
+      "category": "tech",
+      "thread_id": "1a0ce36067ddca62"
+    },
+    {
+      "company": "Animal Pak",
+      "email": "info@animalpak.com",
+      "date": "2026-09-23",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a0ce361f4b35ff8"
+    },
+    {
+      "company": "Thorne",
+      "email": "ambassador@thorne.com",
+      "date": "2026-09-23",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a0ce36308e59688"
+    },
+    {
+      "company": "Tom's 3D",
+      "email": "sponsors@toms3d.org",
+      "date": "2026-09-24",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a0d36048f05a809"
+    },
+    {
+      "company": "PRO Compression",
+      "email": "support@procompression.com",
+      "date": "2026-09-24",
+      "status": "sent",
+      "category": "sports_recovery",
+      "thread_id": "1a0d36054334ef06"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-24T12:35:00.000Z"
 }
