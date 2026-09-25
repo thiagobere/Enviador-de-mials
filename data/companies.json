@@ -2199,9 +2199,89 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "IAME",
+      "email": "info@iamekarting.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting_tech",
+      "thread_id": "19ec0e41e0ba4850"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19fa38e4d475cfa1"
+    },
+    {
+      "company": "Hobie Eyewear",
+      "email": "affiliates@hobieeyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "19fa38e59f64a352"
+    },
+    {
+      "company": "GU Energy Labs",
+      "email": "prosales@guenergy.com",
+      "date": "2026-08-19",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a019fec819f8c52"
+    },
+    {
+      "company": "Crank Sports",
+      "email": "service@cranksports.com",
+      "date": "2026-08-19",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a019fefd64663da"
+    },
+    {
+      "company": "ShowCar Ceramics",
+      "email": "contact@showcarcare.com",
+      "date": "2026-09-11",
+      "status": "sent",
+      "category": "automotive_detailing",
+      "thread_id": "1a0906a1b12b51b0"
+    },
+    {
+      "company": "Custom Moto Gear",
+      "email": "sponsorship@moto-gear.us",
+      "date": "2026-09-25",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a0d87f83d849236"
+    },
+    {
+      "company": "Marca Deportiva",
+      "email": "marcadeportivasp@gmail.com",
+      "date": "2026-09-25",
+      "status": "sent",
+      "category": "sports_apparel_argentina",
+      "thread_id": "1a0d87fb022f808c"
+    },
+    {
+      "company": "Malco Automotive",
+      "email": "info@malcoautomotive.com",
+      "date": "2026-09-25",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a0d87fda3647b55"
+    },
+    {
+      "company": "Steel Sweat",
+      "email": "info@steelsweat.com",
+      "date": "2026-09-25",
+      "status": "sent",
+      "category": "sports_apparel",
+      "thread_id": "1a0d8800582c7a78"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-25T00:20:00.000Z"
 }
