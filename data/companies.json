@@ -1524,7 +1524,7 @@
       "company": "DXRacer",
       "email": "partnerships@dxracer.com",
       "date": "2026-06-28",
-      "status": "sent",
+      "status": "replied_no",
       "category": "general",
       "thread_id": ""
     },
@@ -1628,7 +1628,7 @@
       "company": "LIQUI-MOLY",
       "email": "sponsoring@liqui-moly.de",
       "date": "2026-06-28",
-      "status": "sent",
+      "status": "replied_no",
       "category": "general",
       "thread_id": ""
     },
@@ -2116,7 +2116,7 @@
       "company": "NordVPN",
       "email": "affiliate@nordvpnmedia.com",
       "date": "2026-07-01",
-      "status": "sent",
+      "status": "replied_no",
       "category": "general",
       "thread_id": ""
     },
@@ -2199,9 +2199,129 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Steel Sweat",
+      "email": "info@steelsweat.com",
+      "date": "2026-09-25",
+      "status": "sent",
+      "category": "sports_apparel",
+      "thread_id": "1a0d8800582c7a78"
+    },
+    {
+      "company": "Malco Automotive",
+      "email": "info@malcoautomotive.com",
+      "date": "2026-09-25",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a0d87fda3647b55"
+    },
+    {
+      "company": "Marca Deportiva",
+      "email": "marcadeportivasp@gmail.com",
+      "date": "2026-09-25",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "1a0d87fb022f808c"
+    },
+    {
+      "company": "Custom Moto Gear",
+      "email": "sponsorship@moto-gear.us",
+      "date": "2026-09-25",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a0d87f83d849236"
+    },
+    {
+      "company": "Airoh",
+      "email": "info@airoh.com",
+      "date": "2026-07-27",
+      "status": "replied_no",
+      "category": "motorsport_gear",
+      "thread_id": "19fa38dec72f698d"
+    },
+    {
+      "company": "Porsche Motorsport",
+      "email": "motorsport-partner@porsche.de",
+      "date": "2026-07-15",
+      "status": "replied_no",
+      "category": "automotive",
+      "thread_id": "19f608a0cdc7edb6"
+    },
+    {
+      "company": "Mishimoto",
+      "email": "sponsorship@mishimoto.com",
+      "date": "2026-06-20",
+      "status": "replied_interested",
+      "category": "automotive",
+      "thread_id": "19ec0e5d6a7703bf"
+    },
+    {
+      "company": "Govee",
+      "email": "affiliate@govee.com",
+      "date": "2026-08-03",
+      "status": "replied_no",
+      "category": "tech_hardware",
+      "thread_id": "19f9e56e7b73396f"
+    },
+    {
+      "company": "CAMMUS",
+      "email": "eva@cammus.com",
+      "date": "2026-07-15",
+      "status": "replied_interested",
+      "category": "sim_racing_hardware",
+      "thread_id": "19f6470970f1a23f"
+    },
+    {
+      "company": "Transparent Labs",
+      "email": "support@transparentlabs.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19f563ddd318b16b"
+    },
+    {
+      "company": "Empowered PC",
+      "email": "support@empoweredpc.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "tech_hardware",
+      "thread_id": "19f608a253287ad6"
+    },
+    {
+      "company": "Axcel Sports",
+      "email": "info@axcelsports.com",
+      "date": "2026-06-20",
+      "status": "replied_no",
+      "category": "motorsport_apparel",
+      "thread_id": "19edfc76c3e6cd5b"
+    },
+    {
+      "company": "Anycubic",
+      "email": "official@anycubic.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "19f643d4febbba5e"
+    },
+    {
+      "company": "US Glove",
+      "email": "angel@usglove.com",
+      "date": "2026-09-26",
+      "status": "sent",
+      "category": "motorsport_gear",
+      "thread_id": "1a0dda7b2aaf2465"
+    },
+    {
+      "company": "Ford's Fuel Service (Renegade Racing Fuel)",
+      "email": "tgore@valoroil.com",
+      "date": "2026-09-26",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a0dda7bfe4128bf"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-26T12:19:36.987363Z"
 }
