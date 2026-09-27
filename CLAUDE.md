@@ -178,6 +178,21 @@ Para cada thread con respuesta no leída:
 ### PASO 5 — Guardar base de datos
 Escribí el `data/companies.json` actualizado con todas las novedades.
 
+**CRÍTICO — commit y push obligatorios.** Cada corrida se ejecuta en un contenedor
+efímero: si `data/companies.json` no se commitea y pushea, la próxima corrida arranca
+desde el último commit y todo lo escrito en PASO 5 se pierde. Esto ya pasó (commits del
+2026-06-24 y 2026-07-01 dicen literalmente "rebuild DB from Gmail" porque el archivo
+llevaba semanas sin persistirse) y volvió a pasar entre 2026-07-01 y 2026-09-26,
+provocando outreach duplicado a empresas ya contactadas (ej. K1 RaceGear recibió ~5
+emails repetidos y se quejó). Por eso, al final de CADA corrida:
+```
+git add data/companies.json
+git commit -m "chore: update companies.json — <resumen breve>"
+git push -u origin <branch-actual>
+```
+Si el commit o el push fallan, no des la corrida por terminada silenciosamente —
+avisá el problema en el resumen final.
+
 ### PASO 6 — Reportar resumen
 Al final reportá:
 ```
