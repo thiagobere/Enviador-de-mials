@@ -2199,9 +2199,113 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Xtrfy",
+      "email": "info@xtrfy.com",
+      "date": "2026-08-16",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "1a00a8556f3bae8d"
+    },
+    {
+      "company": "Airoh",
+      "email": "info@airoh.com",
+      "date": "2026-07-27",
+      "status": "replied_no",
+      "category": "motorsport_gear",
+      "thread_id": "19fa38dec72f698d"
+    },
+    {
+      "company": "Kaged Muscle",
+      "email": "support@kaged.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19f9e571670cb14b"
+    },
+    {
+      "company": "Empowered PC",
+      "email": "support@empoweredpc.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "tech_hardware",
+      "thread_id": "19f608a253287ad6"
+    },
+    {
+      "company": "Transparent Labs",
+      "email": "support@transparentlabs.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "19f563ddd318b16b"
+    },
+    {
+      "company": "Konig Wheels",
+      "email": "sponsorship@konigwheels.com",
+      "date": "2026-09-03",
+      "status": "replied_no",
+      "category": "automotive",
+      "thread_id": "1a06735f4ccf1935"
+    },
+    {
+      "company": "Protoplant",
+      "email": "support@protoplant.com",
+      "date": "2026-09-17",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a0af49019dfaf61"
+    },
+    {
+      "company": "PCBWay",
+      "email": "sponsor@pcbway.com",
+      "date": "2026-09-23",
+      "status": "replied_interested",
+      "category": "3d_printing",
+      "thread_id": "1a0ce36067ddca62"
+    },
+    {
+      "company": "Delta Racewear",
+      "email": "info@deltaracewear.com",
+      "date": "2026-09-16",
+      "status": "bounce",
+      "category": "motorsport_gear",
+      "thread_id": "1a0aa25ed1a42a74"
+    },
+    {
+      "company": "Greenball Tires",
+      "email": "sponsorship@greenball.com",
+      "date": "2026-07-15",
+      "status": "sent",
+      "category": "karting_tires",
+      "thread_id": "19f5b663cfb99a4f"
+    },
+    {
+      "company": "Rogue Eyewear",
+      "email": "info@rogue-eyewear.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19f9e570d4a4bbf1"
+    },
+    {
+      "company": "Racechick",
+      "email": "info@racechick.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "19ec0e705be18073"
+    },
+    {
+      "company": "ISS Automotive",
+      "email": "support@issautomotive.com",
+      "date": "2026-07-27",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "19fa390fc28caf53"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-09-28T12:22:50.792Z"
 }
