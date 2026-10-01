@@ -2199,9 +2199,25 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Hoosier Racing Tire",
+      "email": "sponsorship@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "general",
+      "thread_id": "19ec0e1370ee6e64"
+    },
+    {
+      "company": "Deportextil",
+      "email": "contacto@deportextil.com",
+      "date": "2026-10-01",
+      "status": "sent",
+      "category": "sports_apparel",
+      "thread_id": "1a0f761ac45d201c"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-10-01T00:00:00.000Z"
 }
