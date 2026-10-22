@@ -2199,6 +2199,14 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Crawford Performance",
+      "email": "marketing@crawfordperformance.com",
+      "date": "2026-10-05",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a10bfad09999cc2"
     }
   ],
   "pending_response": [],
