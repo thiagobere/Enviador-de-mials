@@ -2199,9 +2199,17 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Kart Wraps",
+      "email": "sales@kartwraps.com.au",
+      "date": "2026-10-31",
+      "status": "sent",
+      "category": "karting_accessories",
+      "thread_id": "1a191dc9cff48a3e"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-10-31T12:20:00Z"
 }
