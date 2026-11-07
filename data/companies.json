@@ -2199,9 +2199,25 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Freeminds",
+      "email": "info@freeminds.it",
+      "date": "2026-11-07",
+      "status": "sent",
+      "category": "karting_apparel",
+      "thread_id": "1a1b5e5a41d125b9"
+    },
+    {
+      "company": "Simsonn",
+      "email": "service@simsonn.com",
+      "date": "2026-11-07",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1b5e5ac4067ead"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-11-07T00:00:00Z"
 }
