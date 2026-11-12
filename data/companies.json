@@ -8022,9 +8022,297 @@
       "status": "sent",
       "category": "karting_radios",
       "thread_id": "1a1ca8140e8b4322"
+    },
+    {
+      "company": "Depancel",
+      "email": "contact@depancel.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "watch",
+      "thread_id": "1a1cfacb7b6bd7ab",
+      "language": "en"
+    },
+    {
+      "company": "Marloe Watch Company",
+      "email": "hello@marloewatchcompany.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "watch",
+      "thread_id": "1a1cfacc5da87810",
+      "language": "en"
+    },
+    {
+      "company": "Dan Henry Watches",
+      "email": "support@danhenrywatches.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "watch",
+      "thread_id": "1a1cfacd104d4e1a",
+      "language": "en"
+    },
+    {
+      "company": "Aera Watches",
+      "email": "hello@aera.co",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "watch",
+      "thread_id": "1a1cfacdd4866c83",
+      "language": "en"
+    },
+    {
+      "company": "Nezumi Studios",
+      "email": "info@nezumistudios.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "watch",
+      "thread_id": "1a1cfad1da42f1c6",
+      "language": "en"
+    },
+    {
+      "company": "Furlan Marri",
+      "email": "media@furlanmarri.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "watch",
+      "thread_id": "1a1cfad2a891b277",
+      "language": "en"
+    },
+    {
+      "company": "Brew Watch Co",
+      "email": "press@brew-watches.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "watch",
+      "thread_id": "1a1cfad37ca542d5",
+      "language": "en"
+    },
+    {
+      "company": "Millers Oils",
+      "email": "sponsorships@millersoils.co.uk",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a1cfad4310ad6d3",
+      "language": "en"
+    },
+    {
+      "company": "Krafft",
+      "email": "krafftfluids@krafft.es",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a1cfad7baaa80df",
+      "language": "es"
+    },
+    {
+      "company": "Hellbot",
+      "email": "marketing@hellbot.xyz",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfad8738b8ad1",
+      "language": "es"
+    },
+    {
+      "company": "Printalot",
+      "email": "info@printalotpal.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfad9481eaf26",
+      "language": "es"
+    },
+    {
+      "company": "Grilon3 (NTH)",
+      "email": "grilon3@nth.com.ar",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfada1e27012d",
+      "language": "es"
+    },
+    {
+      "company": "BCN3D Technologies",
+      "email": "press@bcn3d.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfadeb28552db",
+      "language": "es"
+    },
+    {
+      "company": "Recreus",
+      "email": "info@recreus.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfadf9ef29915",
+      "language": "es"
+    },
+    {
+      "company": "Smart Materials 3D",
+      "email": "hola@smartmaterials3d.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfae07b1f0acd",
+      "language": "es"
+    },
+    {
+      "company": "Artillery 3D",
+      "email": "marketing@artillery3d.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfae131d8bb68",
+      "language": "en"
+    },
+    {
+      "company": "Fillamentum",
+      "email": "marketing@fillamentum.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfae5ca400fba",
+      "language": "en"
+    },
+    {
+      "company": "Sunlu",
+      "email": "branding@sunlu.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfae68b029c25",
+      "language": "en"
+    },
+    {
+      "company": "Raise3D",
+      "email": "inquiry@raise3d.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfae75e5f7e6d",
+      "language": "en"
+    },
+    {
+      "company": "Flashforge",
+      "email": "info@flashforge.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfae808166c22",
+      "language": "en"
+    },
+    {
+      "company": "Kingroon",
+      "email": "shop@kingroon.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfaebff03c075",
+      "language": "en"
+    },
+    {
+      "company": "Spectrum Filaments",
+      "email": "office@spectrumfilaments.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1cfaeccdd3afab",
+      "language": "en"
+    },
+    {
+      "company": "Precision Sim Engineering",
+      "email": "sales@precisionsimengineering.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "sim_racing",
+      "thread_id": "1a1cfaede1608327",
+      "language": "en"
+    },
+    {
+      "company": "Koene Racing Karts",
+      "email": "info@koene.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1cfaee6382cb6d",
+      "language": "en"
+    },
+    {
+      "company": "KKC Kart Shop",
+      "email": "sales@kkckartshop.co.uk",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1cfaf230003e78",
+      "language": "en"
+    },
+    {
+      "company": "Comet Kart Sales",
+      "email": "email@cometkartsales.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1cfaf3239a81ec",
+      "language": "en"
+    },
+    {
+      "company": "Autocryna",
+      "email": "info@autocryna.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1cfaf3ce1aa11c",
+      "language": "es"
+    },
+    {
+      "company": "Solo Karting",
+      "email": "solokarting@solokarting.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1cfaf4827aa4ed",
+      "language": "es"
+    },
+    {
+      "company": "Todo Para Karting",
+      "email": "info@todoparakarting.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1cfaf8f63c06b5",
+      "language": "es"
+    },
+    {
+      "company": "MS Motorstore",
+      "email": "info@msmotorstore.com",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1cfaf9c9c203e7",
+      "language": "es"
+    },
+    {
+      "company": "KartKings",
+      "email": "info@kartkings.nl",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1cfafaa2abe8c8",
+      "language": "en"
+    },
+    {
+      "company": "Mora Racing",
+      "email": "info@mora-racing.de",
+      "date": "2026-11-12",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1cfafb644c4913",
+      "language": "en"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-11-11"
+  "last_updated": "2026-11-12"
 }
