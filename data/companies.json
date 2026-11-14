@@ -8310,9 +8310,177 @@
       "category": "karting",
       "thread_id": "1a1cfafb644c4913",
       "language": "en"
+    },
+    {
+      "company": "Race Technology",
+      "email": "sales@race-technology.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "karting_tech",
+      "thread_id": "1a1d9f673a6ef2d8"
+    },
+    {
+      "company": "Gamer Supps",
+      "email": "contact@gamersupps.gg",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "1a1d9f67e64e91c7"
+    },
+    {
+      "company": "Glytch Energy",
+      "email": "contact@glytchenergy.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "1a1d9f68cd839bda"
+    },
+    {
+      "company": "Gorilla Energy",
+      "email": "us-support@gorillaenergy.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "1a1d9f69b9890436"
+    },
+    {
+      "company": "Neutonic",
+      "email": "info@neutonic.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "1a1d9f6a7cad1392"
+    },
+    {
+      "company": "Echelon",
+      "email": "hq@drinkechelon.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "1a1d9f6b2a21e268"
+    },
+    {
+      "company": "Spark (drinkspark)",
+      "email": "hello@drinkspark.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "energy_drink",
+      "thread_id": "1a1d9f6bf11b9490"
+    },
+    {
+      "company": "Zelos Watches",
+      "email": "hello@zeloswatches.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a1d9f73a7b80ffc"
+    },
+    {
+      "company": "Magrette",
+      "email": "info@magrette.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a1d9f74936a6d1d"
+    },
+    {
+      "company": "Vaer Watches",
+      "email": "team@vaerdesign.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a1d9f755cb616d4"
+    },
+    {
+      "company": "Chronofactum",
+      "email": "info@chronofactum.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a1d9f7630102f0b"
+    },
+    {
+      "company": "SimXPro",
+      "email": "info@simxpro.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1d9f76fb3913d1"
+    },
+    {
+      "company": "Etman",
+      "email": "contacto@etman.com.ar",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a1d9f77c26e80b8"
+    },
+    {
+      "company": "Lusqtoff",
+      "email": "info@lusqtoff.com.ar",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "automotive",
+      "thread_id": "1a1d9f7893030d13"
+    },
+    {
+      "company": "Demon Sunglasses",
+      "email": "info@demonocchiali.it",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a1d9f7966e7e032"
+    },
+    {
+      "company": "Rudy Project",
+      "email": "customerservice@rudyproject.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a1d9f7a319a4172"
+    },
+    {
+      "company": "ENGO Eyewear",
+      "email": "info-us@engoeyewear.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a1d9f7b1367b9ac"
+    },
+    {
+      "company": "RAEN",
+      "email": "info@raen.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a1d9f7bcbf156ee"
+    },
+    {
+      "company": "Tifosi Optics",
+      "email": "customerservice@tifosioptics.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a1d9f7ca905d23f"
+    },
+    {
+      "company": "Cuore",
+      "email": "info_ch@cuore.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "sports_apparel",
+      "thread_id": "1a1d9f7d6e57b508"
+    },
+    {
+      "company": "Recover Brands",
+      "email": "marketing@recoverbrands.com",
+      "date": "2026-11-14",
+      "status": "sent",
+      "category": "sports_apparel",
+      "thread_id": "1a1d9f7e292381b7"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-11-13"
+  "last_updated": "2026-11-14"
 }
