@@ -8519,6 +8519,254 @@
       "status": "sent",
       "category": "karting_chassis",
       "thread_id": "1a1e4448d2b90ba4"
+    },
+    {
+      "company": "Track Titan",
+      "email": "hello@tracktitan.io",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "sim_racing_coaching",
+      "thread_id": "1a1e44c9f851a367"
+    },
+    {
+      "company": "XbotGo",
+      "email": "business@xbotgo.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44cabf9d870e"
+    },
+    {
+      "company": "Aputure",
+      "email": "marketing@aputure.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44cb939be582"
+    },
+    {
+      "company": "Nuun",
+      "email": "info@nuun.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "hydration",
+      "thread_id": "1a1e44cc43b5154b"
+    },
+    {
+      "company": "DripDrop",
+      "email": "hello@dripdrop.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "hydration",
+      "thread_id": "1a1e44cd1cabb337"
+    },
+    {
+      "company": "Skratch Labs",
+      "email": "info@skratchlabs.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "hydration",
+      "thread_id": "1a1e44cdffac3de8"
+    },
+    {
+      "company": "Sim Coaches",
+      "email": "lawrence@simcoaches.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1e44cea0c1c411"
+    },
+    {
+      "company": "ProSimu",
+      "email": "info@prosimu.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1e44cf841fe854"
+    },
+    {
+      "company": "Feiyu Tech",
+      "email": "marketing@feiyu-tech.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44d478672667"
+    },
+    {
+      "company": "Apex Racing Academy",
+      "email": "hello@apexracingacademy.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "sim_racing_coaching",
+      "thread_id": "1a1e44d556c89de1"
+    },
+    {
+      "company": "Major League Sim Racing",
+      "email": "sponsors@mlsr.gg",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "sim_racing",
+      "thread_id": "1a1e44d60459a4ec"
+    },
+    {
+      "company": "Kunos Simulazioni",
+      "email": "info@kunos-simulazioni.it",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "sim_racing_software",
+      "thread_id": "1a1e44d6e3bb2747"
+    },
+    {
+      "company": "Waizowl",
+      "email": "info@waizowl.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "pc_hardware",
+      "thread_id": "1a1e44d7bfc80b44"
+    },
+    {
+      "company": "VGN",
+      "email": "business@vgnlab.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "pc_hardware",
+      "thread_id": "1a1e44d872dd4aef"
+    },
+    {
+      "company": "NovelKeys",
+      "email": "heythere@novelkeys.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "pc_hardware",
+      "thread_id": "1a1e44d95717ca5e"
+    },
+    {
+      "company": "MelGeek",
+      "email": "marketing@melgeek.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "pc_hardware",
+      "thread_id": "1a1e44da11eff86c"
+    },
+    {
+      "company": "Lofree",
+      "email": "marketing@lofree.co",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "pc_hardware",
+      "thread_id": "1a1e44df1735e805"
+    },
+    {
+      "company": "Maono",
+      "email": "marketing@maono.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44dfd156bdca"
+    },
+    {
+      "company": "Hollyland",
+      "email": "marketing@hollyland.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44e09e287b97"
+    },
+    {
+      "company": "Movo",
+      "email": "press@movophoto.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44e17ca2b70a"
+    },
+    {
+      "company": "Pivo",
+      "email": "partnerships@pivo.ai",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44e228f68fbc"
+    },
+    {
+      "company": "Comica Audio",
+      "email": "marketing@comica-audio.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44e2f3c4ebe9"
+    },
+    {
+      "company": "Sirui",
+      "email": "project_marketing@sirui.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44e3ddfc5f5f"
+    },
+    {
+      "company": "ShiftCam",
+      "email": "hello@shiftcam.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "creator_tech",
+      "thread_id": "1a1e44e48dd6e9fc"
+    },
+    {
+      "company": "Bilt Hamber",
+      "email": "social@bilthamber.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1e44e9760b9862"
+    },
+    {
+      "company": "Angelwax",
+      "email": "info@angelwax.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1e44ea4001a8bd"
+    },
+    {
+      "company": "Extrudr",
+      "email": "info@extrudr.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1e44eb007ea057"
+    },
+    {
+      "company": "Formfutura",
+      "email": "info@formfutura.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "3d_printing",
+      "thread_id": "1a1e44ebf1be0679"
+    },
+    {
+      "company": "Baltic Watches",
+      "email": "contact@baltic-watches.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a1e44ecaefc3bad"
+    },
+    {
+      "company": "Lorier Watches",
+      "email": "info@lorierwatches.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a1e44ed9746aa72"
+    },
+    {
+      "company": "Spinnaker Watches",
+      "email": "info@spinnaker-watches.com",
+      "date": "2026-11-16",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a1e44ee40e47954"
     }
   ],
   "pending_response": [],
