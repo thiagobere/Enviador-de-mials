@@ -9278,9 +9278,593 @@
       "status": "sent",
       "category": "unknown",
       "thread_id": "1a1e4445a35d6a1a"
+    },
+    {
+      "company": "Vesaro",
+      "email": "sales@vesaro.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee99aeac177a5"
+    },
+    {
+      "company": "Simworx",
+      "email": "sales@simworx.co.uk",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee99bbc1009c9"
+    },
+    {
+      "company": "Sigma Integrale",
+      "email": "info@sigmai.co",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee99c8d118644"
+    },
+    {
+      "company": "Augury Simulations",
+      "email": "info@augurysimulations.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee99d43c02464"
+    },
+    {
+      "company": "SimFab",
+      "email": "info@simfab.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee99e37c57a3c"
+    },
+    {
+      "company": "DOF Reality",
+      "email": "support@dofreality.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee99efe879e44"
+    },
+    {
+      "company": "Turn Racing",
+      "email": "support@turnracing.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee99fc706e53f"
+    },
+    {
+      "company": "Yaw VR",
+      "email": "support@yawvr.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee9a08159afa5"
+    },
+    {
+      "company": "Simtrecs",
+      "email": "sales@simtrecs.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee9a149a6b945"
+    },
+    {
+      "company": "Volair Sim",
+      "email": "support@volairsim.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee9a216b55e80"
+    },
+    {
+      "company": "Motion Systems",
+      "email": "info@motionsystems.eu",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "sim_racing_hardware",
+      "thread_id": "1a1ee9a71c0e0866"
+    },
+    {
+      "company": "Blendzall",
+      "email": "blendzall@blendzall.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "lubricants",
+      "thread_id": "1a1ee9a7ca842b9c"
+    },
+    {
+      "company": "Penrite Oil",
+      "email": "sales@penriteoil.com.au",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "lubricants",
+      "thread_id": "1a1ee9a8b343fd3b"
+    },
+    {
+      "company": "MANNOL",
+      "email": "info@sct-germany.de",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "lubricants",
+      "thread_id": "1a1ee9a96cd142a6"
+    },
+    {
+      "company": "Opie Oils",
+      "email": "sales@opieoils.co.uk",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "lubricants",
+      "thread_id": "1a1ee9aa29dae4b5"
+    },
+    {
+      "company": "Verus Engineering",
+      "email": "sales@verus-engineering.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9ab1a040dd6"
+    },
+    {
+      "company": "Radium Engineering",
+      "email": "info@radiumauto.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9abd6bffda8"
+    },
+    {
+      "company": "Scorpion Exhausts",
+      "email": "sales@scorpion-redpower.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9acb8499e04"
+    },
+    {
+      "company": "Goodridge",
+      "email": "info@goodridge.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9ad7611ccc4"
+    },
+    {
+      "company": "fifteen52",
+      "email": "info@fifteen52.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9ae4b886196"
+    },
+    {
+      "company": "Powerflex",
+      "email": "sales@powerflex.co.uk",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9b37ed824be"
+    },
+    {
+      "company": "Kansei Wheels",
+      "email": "sales@kanseiwheels.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9b42848e5ac"
+    },
+    {
+      "company": "PERRIN Performance",
+      "email": "sales@perrin.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9b50f9250b8"
+    },
+    {
+      "company": "KTuner",
+      "email": "info@ktuner.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9b5cbef09ef"
+    },
+    {
+      "company": "Haltech",
+      "email": "sales@haltech.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9b68ff0734f"
+    },
+    {
+      "company": "REMUS",
+      "email": "office@remus.at",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9b7733477f2"
+    },
+    {
+      "company": "Link ECU",
+      "email": "sales@linkecu.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9b83eb95237"
+    },
+    {
+      "company": "Corbeau Seats",
+      "email": "contact@corbeau.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9b91f0944cb"
+    },
+    {
+      "company": "GrimmSpeed",
+      "email": "sales@grimmspeed.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9b9d460e7d8"
+    },
+    {
+      "company": "Mountune",
+      "email": "info@mountune.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9ba8fa3da40"
+    },
+    {
+      "company": "CSF Race",
+      "email": "info@csfrace.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9bf65c71abb"
+    },
+    {
+      "company": "Carbotech Brakes",
+      "email": "info@ctbrakes.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9c05973943e"
+    },
+    {
+      "company": "Hybrid Racing",
+      "email": "support@hybrid-racing.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9c10af4bdf9"
+    },
+    {
+      "company": "ITG Air Filters",
+      "email": "sales@itgairfilters.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9c1e1fa23b2"
+    },
+    {
+      "company": "Koyorad",
+      "email": "sales@koyorad.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9c2b4b8e6b8"
+    },
+    {
+      "company": "Pro Alloy Motorsport",
+      "email": "sales@proalloy.co.uk",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9c3814ca9bd"
+    },
+    {
+      "company": "Pagid Racing",
+      "email": "pagidracing@tmdfriction.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9c45ef90b58"
+    },
+    {
+      "company": "Airtec Motorsport",
+      "email": "admin@airtecmotorsport.co.uk",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9c52089f151"
+    },
+    {
+      "company": "Wilwood Engineering",
+      "email": "customerreply@wilwood.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9c5ff74c6e3"
+    },
+    {
+      "company": "BRISK Spark Plugs",
+      "email": "brisk@brisk.cz",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "automotive_aftermarket",
+      "thread_id": "1a1ee9c6cb808a48"
+    },
+    {
+      "company": "Autosport Labs",
+      "email": "sales@autosportlabs.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "data_logging",
+      "thread_id": "1a1ee9cb9a0cdcb9"
+    },
+    {
+      "company": "MoTeC",
+      "email": "admin@motec.com.au",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "data_logging",
+      "thread_id": "1a1ee9cc66fc98f4"
+    },
+    {
+      "company": "Cartek Motorsport Electronics",
+      "email": "info@cartekmotorsport.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "motorsport_electronics",
+      "thread_id": "1a1ee9cd5d6a718e"
+    },
+    {
+      "company": "SONAX",
+      "email": "info@sonax.de",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9ce16c98753"
+    },
+    {
+      "company": "Infinity Wax",
+      "email": "trade@infinitywax.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9ced05b46e7"
+    },
+    {
+      "company": "Mothers Polishes",
+      "email": "info@mothers.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9cfbc4f9d5e"
+    },
+    {
+      "company": "Autobrite Direct",
+      "email": "info@autobritedirect.co.uk",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9d08e40399d"
+    },
+    {
+      "company": "Feynlab",
+      "email": "contact@feynlab.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9d1449635f5"
+    },
+    {
+      "company": "Optimum Polymer Technologies",
+      "email": "info@opticoat.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9d22d6951ac"
+    },
+    {
+      "company": "Poorboy's World",
+      "email": "info@poorboysworld.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9d2e57cecbb"
+    },
+    {
+      "company": "CarPro US",
+      "email": "service@carpro-us.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9d7efe44e8c"
+    },
+    {
+      "company": "Carbon Collective",
+      "email": "hello@carboncollective.co",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9d8c8ee5572"
+    },
+    {
+      "company": "Ceramic Pro",
+      "email": "contact@ceramicpro.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9d992240c18"
+    },
+    {
+      "company": "Dr. Beasley's",
+      "email": "myteam@drbeasleys.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9da7ee71006"
+    },
+    {
+      "company": "Ma-Fra",
+      "email": "info@mafra.it",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9db568cf1f9"
+    },
+    {
+      "company": "Nextzett",
+      "email": "info@nextzett.de",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9dc1a3724ba"
+    },
+    {
+      "company": "Shine Armor",
+      "email": "influencer.partnerships@shinearmor.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9dccebb2954"
+    },
+    {
+      "company": "Swissvax",
+      "email": "customerservice@swissvax.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9dda59650c7"
+    },
+    {
+      "company": "The Rag Company",
+      "email": "support@theragcompany.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9de656a724b"
+    },
+    {
+      "company": "Torque Detail",
+      "email": "hello@torquedetail.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a1ee9df5ced1623"
+    },
+    {
+      "company": "Kaos Design",
+      "email": "info@kaosdesign.it",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "helmet_design",
+      "thread_id": "1a1ee9e4589052bc"
+    },
+    {
+      "company": "Safecraft",
+      "email": "sales@safecraft.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "racing_safety_gear",
+      "thread_id": "1a1ee9e51ce80a38"
+    },
+    {
+      "company": "NecksGen",
+      "email": "info@necksgen.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "racing_safety_gear",
+      "thread_id": "1a1ee9e5c84daddc"
+    },
+    {
+      "company": "Lifeline Fire & Safety",
+      "email": "sales@lifeline-fire.co.uk",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "racing_safety_gear",
+      "thread_id": "1a1ee9e6a3dadcbe"
+    },
+    {
+      "company": "SPA Technique",
+      "email": "info@spatechnique.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "racing_safety_gear",
+      "thread_id": "1a1ee9e784953223"
+    },
+    {
+      "company": "Teng Tools",
+      "email": "hello@tengtools.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "garage_tools",
+      "thread_id": "1a1ee9e847ae5ccd"
+    },
+    {
+      "company": "Sealey",
+      "email": "sales@sealey.co.uk",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "garage_tools",
+      "thread_id": "1a1ee9e913ce3892"
+    },
+    {
+      "company": "Bellota",
+      "email": "comercial@bellota.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "garage_tools",
+      "thread_id": "1a1ee9e9f099209a"
+    },
+    {
+      "company": "BTA Tools",
+      "email": "ventas@btatools.com.ar",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "garage_tools",
+      "thread_id": "1a1ee9ead009c781"
+    },
+    {
+      "company": "ARC Racing",
+      "email": "customerservice@arcracing.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "karting_parts",
+      "thread_id": "1a1ee9eb8aa22543"
+    },
+    {
+      "company": "Biz Karts",
+      "email": "sales@bizkarts.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "karting_parts",
+      "thread_id": "1a1ee9ec719e0106"
+    },
+    {
+      "company": "KartWorkz",
+      "email": "sales@kartworkz.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "karting_parts",
+      "thread_id": "1a1ee9ed3fa06315"
+    },
+    {
+      "company": "PSL Karting",
+      "email": "info@pslkarting.com",
+      "date": "2026-11-18",
+      "status": "sent",
+      "category": "karting_parts",
+      "thread_id": "1a1ee9ede82cc5d9"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-11-18T12:00:00Z"
+  "last_updated": "2026-11-18T12:30:00Z"
 }
