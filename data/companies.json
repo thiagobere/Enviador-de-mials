@@ -9463,9 +9463,49 @@
       "status": "sent",
       "category": "synced_from_gmail",
       "thread_id": "197c71192fab6382"
+    },
+    {
+      "company": "TB Kart",
+      "email": "info@tbkart.it",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1fe1595ec99586"
+    },
+    {
+      "company": "Gillard Karts",
+      "email": "sales@gillard.co.uk",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1fe15a2ebfc9e9"
+    },
+    {
+      "company": "RJS Racing Equipment",
+      "email": "contact@rjsracing.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a1fe15af511c58f"
+    },
+    {
+      "company": "Smart Racing Products",
+      "email": "hello@smartracingproducts.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "karting_tools",
+      "thread_id": "1a1fe15bc6f11c50"
+    },
+    {
+      "company": "BIZOL",
+      "email": "info@bizol.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a1fe15c83650b97"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-11-21T12:29:27.823780Z"
+  "last_updated": "2026-11-21T12:30:09.403263Z"
 }
