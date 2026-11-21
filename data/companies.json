@@ -9863,9 +9863,369 @@
       "status": "sent",
       "category": "vpn_software",
       "thread_id": "1a1fe1a4323b07f1"
+    },
+    {
+      "company": "Kalì Kart",
+      "email": "info@kalikart.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1fe1704ef1a886"
+    },
+    {
+      "company": "Kart Lift",
+      "email": "info@kartlift.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "karting_tools",
+      "thread_id": "1a1fe1713a4eb612"
+    },
+    {
+      "company": "Kart Racing Pro (PiBoSo)",
+      "email": "info@piboso.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sim_karting",
+      "thread_id": "1a1fe171ef351bea"
+    },
+    {
+      "company": "Pakelo Lubricants",
+      "email": "pakelo@pakelo.it",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a1fe172d5cba1fc"
+    },
+    {
+      "company": "Hi-Tec Oils",
+      "email": "info@hi-tecoils.com.au",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a1fe17394fc7cc9"
+    },
+    {
+      "company": "Schroth Safety Products",
+      "email": "germany@eu.schroth.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "motorsport_safety",
+      "thread_id": "1a1fe178279e97e3"
+    },
+    {
+      "company": "Defender Safety",
+      "email": "sales@defendersafety.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "motorsport_safety",
+      "thread_id": "1a1fe178fa095442"
+    },
+    {
+      "company": "FUCHS Lubricants",
+      "email": "contact@fuchs-oil.de",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a1fe179de0413f3"
+    },
+    {
+      "company": "Hagerty",
+      "email": "marketing@hagerty.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "motorsport_media",
+      "thread_id": "1a1fe17a93c3afc6"
+    },
+    {
+      "company": "Kart-Sim",
+      "email": "info@kart-sim.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sim_karting",
+      "thread_id": "1a1fe17b549f970c"
+    },
+    {
+      "company": "GoKartGod",
+      "email": "support@gokartgod.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1fe17f492cc251"
+    },
+    {
+      "company": "Haltermann Carless",
+      "email": "info@h-c-s-group.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "racing_fuel",
+      "thread_id": "1a1fe18034b35caf"
+    },
+    {
+      "company": "Racing Electronics",
+      "email": "support@racingelectronics.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "motorsport_electronics",
+      "thread_id": "1a1fe180e67429e2"
+    },
+    {
+      "company": "Pit Lane Clothing",
+      "email": "manager@pitlaneclothing.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "racing_lifestyle",
+      "thread_id": "1a1fe181db4cf82b"
+    },
+    {
+      "company": "Hoonigan",
+      "email": "support@hoonigan.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "racing_lifestyle",
+      "thread_id": "1a1fe1828f2cda75"
+    },
+    {
+      "company": "Mundo Kart Argentina",
+      "email": "info@mundokart.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "1a1fe1868506a468"
+    },
+    {
+      "company": "Growth Supplements",
+      "email": "comunidade.mkt@grwt.com.br",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a1fe1874b4b82e6"
+    },
+    {
+      "company": "BGH",
+      "email": "consultas@bgh.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "electronics",
+      "thread_id": "1a1fe18822907508"
+    },
+    {
+      "company": "Gezatek",
+      "email": "ventas@gezatek.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "electronics_retail",
+      "thread_id": "1a1fe1890d363d7d"
+    },
+    {
+      "company": "Dark Lab Suplementos",
+      "email": "contato@darklabsuplementos.com.br",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a1fe189d9c1ea53"
+    },
+    {
+      "company": "Penalty",
+      "email": "contato@cambuci.com.br",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "apparel",
+      "thread_id": "1a1fe18da418737b"
+    },
+    {
+      "company": "Fila Argentina",
+      "email": "info@grupodass.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "apparel",
+      "thread_id": "1a1fe18e8c110c9b"
+    },
+    {
+      "company": "Luanvi",
+      "email": "info@luanvi.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "apparel",
+      "thread_id": "1a1fe18f6213fd40"
+    },
+    {
+      "company": "ATM Seguros",
+      "email": "contacto@atmseguros.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "insurance",
+      "thread_id": "1a1fe190243b6a7a"
+    },
+    {
+      "company": "Yokohama Argentina",
+      "email": "argentina.info@yokohama.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "tires",
+      "thread_id": "1a1fe1911c9da061"
+    },
+    {
+      "company": "Rodo",
+      "email": "contacto@rodo.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "electronics_retail",
+      "thread_id": "1a1fe1954e57cafd"
+    },
+    {
+      "company": "Maximus",
+      "email": "empresas@maximus.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "electronics_retail",
+      "thread_id": "1a1fe1963f80db97"
+    },
+    {
+      "company": "Bulevip",
+      "email": "info@bulevip.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a1fe1970cb51421"
+    },
+    {
+      "company": "Polar Argentina (Sportlife)",
+      "email": "info@sportlife.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_tech",
+      "thread_id": "1a1fe197d2ed460e"
+    },
+    {
+      "company": "Dribbling",
+      "email": "info@dribbling.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_retail",
+      "thread_id": "1a1fe198844be0b7"
+    },
+    {
+      "company": "Cascos Halcón",
+      "email": "info@cascoshalcon.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a1fe19c80e58157"
+    },
+    {
+      "company": "Platzi",
+      "email": "team@platzi.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "edtech",
+      "thread_id": "1a1fe19d553fffa0"
+    },
+    {
+      "company": "Coderhouse",
+      "email": "prensa@coderhouse.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "edtech",
+      "thread_id": "1a1fe19e2fe5f6f4"
+    },
+    {
+      "company": "Cunnington",
+      "email": "info@prodea.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "beverage",
+      "thread_id": "1a1fe19f032770de"
+    },
+    {
+      "company": "Rosamonte",
+      "email": "info@rosamonte.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "beverage",
+      "thread_id": "1a1fe19fd21913a9"
+    },
+    {
+      "company": "New Science",
+      "email": "info@newscience.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a1fe1a3e8cd7875"
+    },
+    {
+      "company": "Vitatech",
+      "email": "info@vitatech.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a1fe1a4a7ca7731"
+    },
+    {
+      "company": "Essential Nutrition",
+      "email": "contato@essentialnutrition.com.br",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a1fe1a59b7b61a5"
+    },
+    {
+      "company": "Atlhetica Nutrition",
+      "email": "atlhetica@atlhetica.com.br",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a1fe1a66fc26445"
+    },
+    {
+      "company": "Quamtrax",
+      "email": "info@quamtrax.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a1fe1a72288d548"
+    },
+    {
+      "company": "TM Racing",
+      "email": "info@tm-moto.it",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "karting_engines",
+      "thread_id": "1a1fe167430faf5b"
+    },
+    {
+      "company": "Radikal Racing",
+      "email": "info@radikalracing.com.ar",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "motorsport_apparel",
+      "thread_id": "1a1fe1683b12b03b"
+    },
+    {
+      "company": "Putoline Oil",
+      "email": "marketing@putoline.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "lubricant",
+      "thread_id": "1a1fe169191bd991"
+    },
+    {
+      "company": "Coryton Advanced Fuels",
+      "email": "globalsales@coryton.com",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "racing_fuel",
+      "thread_id": "1a1fe169dff80567"
+    },
+    {
+      "company": "IMAF",
+      "email": "info@imaf.it",
+      "date": "2026-11-21",
+      "status": "sent",
+      "category": "karting_protection",
+      "thread_id": "1a1fe16a8caa439e"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-11-21T12:35:17.564854Z"
+  "last_updated": "2026-11-21T12:35:31.948114Z"
 }
