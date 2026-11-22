@@ -2199,9 +2199,41 @@
       "status": "sent",
       "category": "general",
       "thread_id": ""
+    },
+    {
+      "company": "Impresoras3D Argentina",
+      "email": "info@3dimpresoras.com.ar",
+      "date": "2026-11-18",
+      "status": "replied_meeting",
+      "category": "3d_printing",
+      "thread_id": "1a1eea8209c98530"
+    },
+    {
+      "company": "BGH",
+      "email": "consultas@bgh.com.ar",
+      "date": "2026-11-21",
+      "status": "replied_no",
+      "category": "tech",
+      "thread_id": "1a1fe18822907508"
+    },
+    {
+      "company": "Crown Sport Nutrition",
+      "email": "irene.sotomayor@crownsportnutrition.com",
+      "date": "2026-11-20",
+      "status": "replied_no",
+      "category": "sports_nutrition",
+      "thread_id": "1a1f97165186cd1b"
+    },
+    {
+      "company": "Shokz",
+      "email": "hello@care.shokz.com",
+      "date": "2026-11-21",
+      "status": "replied_interested",
+      "category": "tech",
+      "thread_id": "1a1fe68914f4a153"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-07-01T20:31:30.256Z"
+  "last_updated": "2026-11-22T12:10:00Z"
 }
