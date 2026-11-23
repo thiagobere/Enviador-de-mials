@@ -9186,6 +9186,286 @@
       "status": "sent",
       "category": "tech_power",
       "thread_id": "1a1fe185b08834f5"
+    },
+    {
+      "company": "Hawkers",
+      "email": "hello@hawkersco.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a2085303152f9d4"
+    },
+    {
+      "company": "Northweek",
+      "email": "hello@northweek.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a20853106d5886f"
+    },
+    {
+      "company": "Meller",
+      "email": "info@mellerbrand.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a208531c9c29d28"
+    },
+    {
+      "company": "Vitamin Way",
+      "email": "info@vitamin-way.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sports_nutrition",
+      "thread_id": "1a208532a155fed8"
+    },
+    {
+      "company": "Montagne",
+      "email": "info@montagne.com.ar",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sportswear",
+      "thread_id": "1a2085338523e966"
+    },
+    {
+      "company": "Las Marías (Taragüí)",
+      "email": "Rpublicas@lasmarias.com.ar",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "food_beverage",
+      "thread_id": "1a2085345501318f"
+    },
+    {
+      "company": "Knockaround",
+      "email": "info@knockaround.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a20853889d184be"
+    },
+    {
+      "company": "Gloryfy",
+      "email": "marketing@gloryfy.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "1a208539698e8e4f"
+    },
+    {
+      "company": "uvex sports",
+      "email": "sports@uvex.de",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sports_eyewear_helmets",
+      "thread_id": "1a20853a3edf98f2"
+    },
+    {
+      "company": "Citizen Watch",
+      "email": "info@citizenwatch.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a20853b10533664"
+    },
+    {
+      "company": "Nordgreen",
+      "email": "hello@nordgreen.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a20853bd10e7358"
+    },
+    {
+      "company": "Filippo Loreti",
+      "email": "contact@filippoloretiwatches.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a20853cbbbc205e"
+    },
+    {
+      "company": "CLUSE",
+      "email": "partnerships@cluse.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a20853d7525db96"
+    },
+    {
+      "company": "traser",
+      "email": "info@traser.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a20853e3662cc43"
+    },
+    {
+      "company": "Laco",
+      "email": "info@laco.de",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a208542aabbf929"
+    },
+    {
+      "company": "Ball Watch",
+      "email": "info@ballwatch.ch",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a208543736ed546"
+    },
+    {
+      "company": "Momentum Watch",
+      "email": "watches@momentumwatch.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "watches",
+      "thread_id": "1a20854444d87ea0"
+    },
+    {
+      "company": "beyerdynamic",
+      "email": "info@beyerdynamic-usa.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "audio",
+      "thread_id": "1a20854507643f0f"
+    },
+    {
+      "company": "Audeze",
+      "email": "info@audeze.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "audio",
+      "thread_id": "1a208545ef311757"
+    },
+    {
+      "company": "FiiO",
+      "email": "pr@fiio.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "audio",
+      "thread_id": "1a208546b162317a"
+    },
+    {
+      "company": "70mai",
+      "email": "globalmarketing@70mai.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "dashcam_tech",
+      "thread_id": "1a2085477aea04a9"
+    },
+    {
+      "company": "Native Union",
+      "email": "press@nativeunion.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "phone_accessories",
+      "thread_id": "1a2085483f2034c5"
+    },
+    {
+      "company": "DrunkDeer",
+      "email": "hello@drunkdeer.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "1a20854cbf018863"
+    },
+    {
+      "company": "Fantech",
+      "email": "marketing@fantechworld.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "1a20854d76bf34de"
+    },
+    {
+      "company": "COUGAR Gaming",
+      "email": "marketing@cougargaming.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "gaming_peripherals",
+      "thread_id": "1a20854e4cf71395"
+    },
+    {
+      "company": "xTool",
+      "email": "marketing@xtool.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "3d_printing_laser",
+      "thread_id": "1a20854f18cd228c"
+    },
+    {
+      "company": "hide.me VPN",
+      "email": "pr@hide.me",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "vpn",
+      "thread_id": "1a20854fdec1a339"
+    },
+    {
+      "company": "PrivadoVPN",
+      "email": "media@privadovpn.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "vpn",
+      "thread_id": "1a208550b24e161f"
+    },
+    {
+      "company": "Malwarebytes",
+      "email": "press@malwarebytes.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "cybersecurity",
+      "thread_id": "1a20855192dd26ac"
+    },
+    {
+      "company": "Movavi",
+      "email": "youtube_collab@movavi.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "creator_tools",
+      "thread_id": "1a2085525c405401"
+    },
+    {
+      "company": "VEED",
+      "email": "press@veed.io",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "creator_tools",
+      "thread_id": "1a208556c2eacead"
+    },
+    {
+      "company": "OpusClip",
+      "email": "partnership@opus.pro",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "creator_tools",
+      "thread_id": "1a208557bfb3be67"
+    },
+    {
+      "company": "vidIQ",
+      "email": "contact@vidiq.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "creator_tools",
+      "thread_id": "1a2085586e9d96dc"
+    },
+    {
+      "company": "Fotor",
+      "email": "partners@fotor.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "creator_tools",
+      "thread_id": "1a2085592db761e6"
+    },
+    {
+      "company": "Koch-Chemie",
+      "email": "info@koch-chemie.de",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "car_care",
+      "thread_id": "1a208559edc81412"
     }
   ],
   "pending_response": [],
