@@ -9466,6 +9466,142 @@
       "status": "sent",
       "category": "car_care",
       "thread_id": "1a208559edc81412"
+    },
+    {
+      "company": "Freeline",
+      "email": "info@freeline.it",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "karting_parts",
+      "thread_id": "1a20864bea68daa1"
+    },
+    {
+      "company": "Lenzo Kart",
+      "email": "info@lenzokart.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a20864cc56e16a0"
+    },
+    {
+      "company": "Mega Kart",
+      "email": "mega@megakart.com.br",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a20864da3673d79"
+    },
+    {
+      "company": "Kart Mini",
+      "email": "vendas@kartmini.com.br",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a20864e676a0725"
+    },
+    {
+      "company": "DINO Kart",
+      "email": "info@dino.dk",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "karting_chassis",
+      "thread_id": "1a20864f3d076735"
+    },
+    {
+      "company": "Jecko Racing",
+      "email": "info@jeckoracing.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "racing_seats",
+      "thread_id": "1a208650121605d7"
+    },
+    {
+      "company": "Butler Built",
+      "email": "sales@butlerbuilt.net",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "racing_seats",
+      "thread_id": "1a208650f863757e"
+    },
+    {
+      "company": "Racing Unleashed",
+      "email": "info@racing-unleashed.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sim_racing",
+      "thread_id": "1a208651a5bbe7ba"
+    },
+    {
+      "company": "ReFerox Racing Simulators",
+      "email": "info@referox.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "sim_racing",
+      "thread_id": "1a2086526679beb4"
+    },
+    {
+      "company": "ROWE Oil",
+      "email": "info@rowe-oil.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "lubricants",
+      "thread_id": "1a208657434aaf1c"
+    },
+    {
+      "company": "ADDINOL",
+      "email": "info@addinol.de",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "lubricants",
+      "thread_id": "1a2086583b1de503"
+    },
+    {
+      "company": "Repsol Lubricantes",
+      "email": "lubricantes@repsol.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "lubricants",
+      "thread_id": "1a2086591e9781cb"
+    },
+    {
+      "company": "PETRONAS",
+      "email": "media@petronas.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "lubricants",
+      "thread_id": "1a208659d73ca438"
+    },
+    {
+      "company": "GEDORE",
+      "email": "info@gedore.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "motorsport_tools",
+      "thread_id": "1a20865a98af68e1"
+    },
+    {
+      "company": "STAHLWILLE",
+      "email": "info@stahlwille.de",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "motorsport_tools",
+      "thread_id": "1a20865b76239fa4"
+    },
+    {
+      "company": "Cosworth",
+      "email": "media@cosworth.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "motorsport_electronics",
+      "thread_id": "1a20865c248bdc9c"
+    },
+    {
+      "company": "Öhlins",
+      "email": "us_info@ohlins.com",
+      "date": "2026-11-23",
+      "status": "sent",
+      "category": "motorsport_parts",
+      "thread_id": "1a20865ceb1e0369"
     }
   ],
   "pending_response": [],
