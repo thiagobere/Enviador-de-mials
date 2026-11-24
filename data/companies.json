@@ -6456,10 +6456,11 @@
       "company": "Furlan Marri",
       "email": "media@furlanmarri.com",
       "date": "2026-11-12",
-      "status": "sent",
+      "status": "replied_redirect",
       "category": "watch",
       "thread_id": "1a1cfad2a891b277",
-      "language": "en"
+      "language": "en",
+      "last_reply": "2026-11-24"
     },
     {
       "company": "Grilon3 (NTH)",
@@ -7688,9 +7689,10 @@
       "company": "Autosport Labs",
       "email": "sales@autosportlabs.com",
       "date": "2026-11-18",
-      "status": "sent",
+      "status": "replied_interested",
       "category": "synced_from_gmail",
-      "thread_id": "1a1ee9cb9a0cdcb9"
+      "thread_id": "1a1ee9cb9a0cdcb9",
+      "last_reply": "2026-11-24"
     },
     {
       "company": "BRISK Spark Plugs",
@@ -7899,7 +7901,8 @@
       "date": "2026-11-18",
       "status": "replied_meeting",
       "category": "3d_printing",
-      "thread_id": "1a1eea8209c98530"
+      "thread_id": "1a1eea8209c98530",
+      "last_reply": "2026-11-24"
     },
     {
       "company": "Infinity Wax",
@@ -8911,9 +8914,10 @@
       "company": "Penalty",
       "email": "contato@cambuci.com.br",
       "date": "2026-11-21",
-      "status": "sent",
+      "status": "replied_no",
       "category": "apparel",
-      "thread_id": "1a1fe18da418737b"
+      "thread_id": "1a1fe18da418737b",
+      "last_reply": "2026-11-24"
     },
     {
       "company": "Pit Lane Clothing",
@@ -9279,9 +9283,10 @@
       "company": "Filippo Loreti",
       "email": "contact@filippoloretiwatches.com",
       "date": "2026-11-23",
-      "status": "sent",
+      "status": "replied_neutral",
       "category": "watches",
-      "thread_id": "1a20853cbbbc205e"
+      "thread_id": "1a20853cbbbc205e",
+      "last_reply": "2026-11-24"
     },
     {
       "company": "CLUSE",
@@ -9303,9 +9308,10 @@
       "company": "Laco",
       "email": "info@laco.de",
       "date": "2026-11-23",
-      "status": "sent",
+      "status": "replied_no",
       "category": "watches",
-      "thread_id": "1a208542aabbf929"
+      "thread_id": "1a208542aabbf929",
+      "last_reply": "2026-11-24"
     },
     {
       "company": "Ball Watch",
@@ -9367,9 +9373,10 @@
       "company": "DrunkDeer",
       "email": "hello@drunkdeer.com",
       "date": "2026-11-23",
-      "status": "sent",
+      "status": "replied_neutral",
       "category": "gaming_peripherals",
-      "thread_id": "1a20854cbf018863"
+      "thread_id": "1a20854cbf018863",
+      "last_reply": "2026-11-24"
     },
     {
       "company": "Fantech",
@@ -9551,9 +9558,10 @@
       "company": "ADDINOL",
       "email": "info@addinol.de",
       "date": "2026-11-23",
-      "status": "sent",
+      "status": "replied_no",
       "category": "lubricants",
-      "thread_id": "1a2086583b1de503"
+      "thread_id": "1a2086583b1de503",
+      "last_reply": "2026-11-24"
     },
     {
       "company": "Repsol Lubricantes",
@@ -9606,5 +9614,5 @@
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-11-23T12:10:00Z"
+  "last_updated": "2026-11-24T12:06:16.950901Z"
 }
