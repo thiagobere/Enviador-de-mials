@@ -8931,9 +8931,954 @@
       "category": "unknown",
       "thread_id": "1a20865ceb1e0369",
       "source": "gmail_sync_2026-11-26"
+    },
+    {
+      "company": "Kart Republic",
+      "email": "info@kartrepublic.com",
+      "date": "2026-06-24",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "",
+      "source": "gmail_check_2026-11-26"
+    },
+    {
+      "company": "Hoosier Racing Tire",
+      "email": "info@hoosiertire.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "kart_tires",
+      "thread_id": "",
+      "source": "gmail_check_2026-11-26"
+    },
+    {
+      "company": "Simucube",
+      "email": "press@simucube.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sim_racing",
+      "thread_id": "",
+      "source": "gmail_check_2026-11-26"
+    },
+    {
+      "company": "Pit Viper",
+      "email": "info@pitviper.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "sunglasses",
+      "thread_id": "",
+      "source": "gmail_check_2026-11-26"
+    },
+    {
+      "company": "Tillotson Racing",
+      "email": "info@tillotsonracing.com",
+      "date": "2026-06-20",
+      "status": "sent",
+      "category": "karting",
+      "thread_id": "19ec0e5c0d6f905d",
+      "source": "gmail_check_2026-11-26"
+    },
+    {
+      "company": "Tailwind Nutrition",
+      "email": "sales@tailwindnutrition.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "nutrition",
+      "language": "en",
+      "thread_id": "1a217da3e245abb2"
+    },
+    {
+      "company": "LAMZU",
+      "email": "service@lamzu.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217da4d4b221c6"
+    },
+    {
+      "company": "Ducky",
+      "email": "support@ducky.global",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217da5897725fd"
+    },
+    {
+      "company": "Nextbase",
+      "email": "sales@nextbase.co.uk",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217da641ae8246"
+    },
+    {
+      "company": "VIOFO",
+      "email": "support@viofo.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217da7347d8c6e"
+    },
+    {
+      "company": "Vantrue",
+      "email": "support@vantrue.net",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217da7ef21a5e2"
+    },
+    {
+      "company": "SP Connect",
+      "email": "support@sp-connect.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217da8aa63ddf0"
+    },
+    {
+      "company": "Mistral",
+      "email": "info@mistral.com.ar",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "argentina_brand",
+      "language": "es",
+      "thread_id": "1a217da987d8c2c9"
+    },
+    {
+      "company": "Bensimon",
+      "email": "ecommerce@bensimon.com.ar",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "argentina_brand",
+      "language": "es",
+      "thread_id": "1a217daa6dab652b"
+    },
+    {
+      "company": "Rheos",
+      "email": "hello@rheosgear.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "sunglasses",
+      "language": "en",
+      "thread_id": "1a217dab3a26f486"
+    },
+    {
+      "company": "Mormaii",
+      "email": "sac@mormaii.com.br",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "sunglasses",
+      "language": "en",
+      "thread_id": "1a217db06f681e5f"
+    },
+    {
+      "company": "Restream",
+      "email": "support@restream.io",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217db13689a19f"
+    },
+    {
+      "company": "Linktree",
+      "email": "press@linktr.ee",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217db1f3ea7e40"
+    },
+    {
+      "company": "Captions",
+      "email": "hello@captions.ai",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217db2db207dc4"
+    },
+    {
+      "company": "StreamYard",
+      "email": "contact@streamyard.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217db38b9d2f20"
+    },
+    {
+      "company": "Kartódromo Granja Viana",
+      "email": "contato@kgv.com.br",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "en",
+      "thread_id": "1a217db46052664c"
+    },
+    {
+      "company": "Go Kart Manía",
+      "email": "info@gokartmania.com.mx",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "es",
+      "thread_id": "1a217db55e41ddd2"
+    },
+    {
+      "company": "Karting Sevilla",
+      "email": "info@kartingsevilla.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "es",
+      "thread_id": "1a217db60b86e3cb"
+    },
+    {
+      "company": "Karting Vendrell",
+      "email": "info@kartingvendrell.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "es",
+      "thread_id": "1a217db6e456b579"
+    },
+    {
+      "company": "Rally Kart Chile",
+      "email": "contacto@rallykarting.cl",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "es",
+      "thread_id": "1a217db7a32cbe07"
+    },
+    {
+      "company": "Buckmore Park Kart Circuit",
+      "email": "sales@buckmore.co.uk",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "en",
+      "thread_id": "1a217dbcb7913113"
+    },
+    {
+      "company": "Daytona Motorsport",
+      "email": "marketing@daytona.co.uk",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "en",
+      "thread_id": "1a217dbd78f879dd"
+    },
+    {
+      "company": "Yací",
+      "email": "comunicacion@yaci.com.ar",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "energy_drink",
+      "language": "es",
+      "thread_id": "1a217dbe5935038d"
+    },
+    {
+      "company": "Wega Filtros",
+      "email": "wegainfo@wega.com.ar",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "automotive",
+      "language": "es",
+      "thread_id": "1a217dbf3bb95aaf"
+    },
+    {
+      "company": "FRAM Argentina",
+      "email": "fram.argentina@fram.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "automotive",
+      "language": "es",
+      "thread_id": "1a217dbfefd30897"
+    },
+    {
+      "company": "Akrapovič",
+      "email": "info@akrapovic.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "automotive",
+      "language": "en",
+      "thread_id": "1a217dc0d0e4d6e2"
+    },
+    {
+      "company": "Milltek Sport",
+      "email": "info@millteksport.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "automotive",
+      "language": "en",
+      "thread_id": "1a217dc19031624f"
+    },
+    {
+      "company": "Antigravity Batteries",
+      "email": "media@antigravitybatteries.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "automotive",
+      "language": "en",
+      "thread_id": "1a217dc26f33cb0e"
+    },
+    {
+      "company": "Momentous",
+      "email": "affiliates@livemomentous.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "nutrition",
+      "language": "en",
+      "thread_id": "1a217dc3338541f4"
+    },
+    {
+      "company": "Yerbaé",
+      "email": "customerservice@yerbae.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "energy_drink",
+      "language": "en",
+      "thread_id": "1a217dc3eb4689fd"
+    },
+    {
+      "company": "NamedSport",
+      "email": "contactus.namedsport@namedgroup.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "nutrition",
+      "language": "en",
+      "thread_id": "1a217dc8fc6a1b75"
+    },
+    {
+      "company": "High5",
+      "email": "info@highfive.co.uk",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "nutrition",
+      "language": "en",
+      "thread_id": "1a217dc9d54f8a62"
+    },
+    {
+      "company": "TORQ Fitness",
+      "email": "sponsorship@torqfitness.co.uk",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "nutrition",
+      "language": "en",
+      "thread_id": "1a217dca84ca78a1"
+    },
+    {
+      "company": "LIP Watches",
+      "email": "contact@lip.fr",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "watch",
+      "language": "en",
+      "thread_id": "1a217dcb6a5185f5"
+    },
+    {
+      "company": "Nodus Watches",
+      "email": "group@noduswatches.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "watch",
+      "language": "en",
+      "thread_id": "1a217dcc2da28318"
+    },
+    {
+      "company": "Henry Archer",
+      "email": "hello@henryarcher.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "watch",
+      "language": "en",
+      "thread_id": "1a217dccfa447a3f"
+    },
+    {
+      "company": "Echo/Neutra",
+      "email": "info@echoneutra.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "watch",
+      "language": "en",
+      "thread_id": "1a217dcdd7e7fb19"
+    },
+    {
+      "company": "Ice-Watch",
+      "email": "social@ice-watch.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "watch",
+      "language": "en",
+      "thread_id": "1a217dcea225a7c5"
+    },
+    {
+      "company": "Scicon Sports",
+      "email": "media@sciconsports.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "sunglasses",
+      "language": "en",
+      "thread_id": "1a217dcf64a2d440"
+    },
+    {
+      "company": "D.Franklin",
+      "email": "ibg@illicebrandsgroup.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "sunglasses",
+      "language": "es",
+      "thread_id": "1a217dd03fd7ea41"
+    },
+    {
+      "company": "Ulefone",
+      "email": "web@ulefone.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217dd515b945b1"
+    },
+    {
+      "company": "Blackview",
+      "email": "influencer@blackview.hk",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217dd5e4c0c6b6"
+    },
+    {
+      "company": "DOOGEE",
+      "email": "marketing@doogee.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217dd6bf59b052"
+    },
+    {
+      "company": "OUKITEL",
+      "email": "contact@oukitel.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217dd79412bd19"
+    },
+    {
+      "company": "SANDMARC",
+      "email": "help@sandmarc.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217dd842c8561a"
+    },
+    {
+      "company": "Freewell",
+      "email": "care@freewellgear.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217dd908f8e7d3"
+    },
+    {
+      "company": "TELESIN",
+      "email": "marketing@telesin.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217dd9ef6949b0"
+    },
+    {
+      "company": "FIFINE",
+      "email": "web@fifine.cc",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217ddaa7b43e96"
+    },
+    {
+      "company": "Deity Microphones",
+      "email": "support@deitymic.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217ddb8b744d7e"
+    },
+    {
+      "company": "Lume Cube",
+      "email": "press@lumecube.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217ddc5ab1b8ea"
+    },
+    {
+      "company": "Campark",
+      "email": "affiliate@campark.net",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217de16fe7c6db"
+    },
+    {
+      "company": "BlackVue",
+      "email": "marketing@pittasoft.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217de22d4dcd9e"
+    },
+    {
+      "company": "NACON",
+      "email": "accueil@nacon.fr",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217de2e9ad5023"
+    },
+    {
+      "company": "GravaStar",
+      "email": "service@gravastar.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217de3cc5a7bfe"
+    },
+    {
+      "company": "Griot's Garage",
+      "email": "customerservice@griotsgarage.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "car_care",
+      "language": "en",
+      "thread_id": "1a217de48a4714a3"
+    },
+    {
+      "company": "Auto Finesse",
+      "email": "support@autofinesse.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "car_care",
+      "language": "en",
+      "thread_id": "1a217de576ad4df7"
+    },
+    {
+      "company": "Wolf Oil",
+      "email": "info@wolfoil.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "lubricant",
+      "language": "en",
+      "thread_id": "1a217de62effa4ce"
+    },
+    {
+      "company": "Muc-Off",
+      "email": "customerservice@muc-off.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "car_care",
+      "language": "en",
+      "thread_id": "1a217de70dbd52f1"
+    },
+    {
+      "company": "Wiha Tools",
+      "email": "info.de@wiha.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tools",
+      "language": "en",
+      "thread_id": "1a217de7ce7496db"
+    },
+    {
+      "company": "GEARWRENCH",
+      "email": "support@gearwrench.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tools",
+      "language": "en",
+      "thread_id": "1a217de89eab3785"
+    },
+    {
+      "company": "CyberLink",
+      "email": "press@cyberlink.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217deda7e8a0a8"
+    },
+    {
+      "company": "MAGIX",
+      "email": "influencer@magix.net",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217dee7f3ced1d"
+    },
+    {
+      "company": "Topaz Labs",
+      "email": "press@topazlabs.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217def3215c74a"
+    },
+    {
+      "company": "Skylum",
+      "email": "brand@skylum.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217df01f5c9543"
+    },
+    {
+      "company": "OWN3D",
+      "email": "info@own3d.tv",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217df0cbc9338d"
+    },
+    {
+      "company": "Passionfroot",
+      "email": "support@passionfroot.me",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217df18dbb113e"
+    },
+    {
+      "company": "Runway",
+      "email": "partnerships@runwayml.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217df2777584cc"
+    },
+    {
+      "company": "HeyGen",
+      "email": "press@heygen.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217df329efa33d"
+    },
+    {
+      "company": "Flixier",
+      "email": "contact@flixier.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "creator_tools",
+      "language": "en",
+      "thread_id": "1a217df3e3345e8f"
+    },
+    {
+      "company": "Vita Wallet",
+      "email": "marketing@vitawallet.io",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "fintech",
+      "language": "es",
+      "thread_id": "1a217df4d2a6cd83"
+    },
+    {
+      "company": "Cardón",
+      "email": "atencionalcliente@cardon.com.ar",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "argentina_brand",
+      "language": "es",
+      "thread_id": "1a217df9c4fa56ce"
+    },
+    {
+      "company": "Rapsodia",
+      "email": "contacto@rapsodiastore.com.ar",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "argentina_brand",
+      "language": "es",
+      "thread_id": "1a217dfaa3b34c32"
+    },
+    {
+      "company": "Zip North",
+      "email": "sales@zipnorth.co.uk",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting",
+      "language": "en",
+      "thread_id": "1a217dfb6e3f6dd6"
+    },
+    {
+      "company": "GamaKay",
+      "email": "support@gamakay.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217dfc4a25c503"
+    },
+    {
+      "company": "YUNZII",
+      "email": "marketing@yunzii.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217dfd1ba87286"
+    },
+    {
+      "company": "Machenike",
+      "email": "global-marketing@machenike.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217dfdf3977b18"
+    },
+    {
+      "company": "JSAUX",
+      "email": "official@jsaux.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217dfea315ed2f"
+    },
+    {
+      "company": "Mobapad",
+      "email": "pr@mobapad.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217dff91527525"
+    },
+    {
+      "company": "BINBOK",
+      "email": "business@binbok.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "gaming",
+      "language": "en",
+      "thread_id": "1a217e005d2701f4"
+    },
+    {
+      "company": "1MORE",
+      "email": "1moreservice@1more.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217e01064cd5d6"
+    },
+    {
+      "company": "QCY",
+      "email": "pr@qcyearphone.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217e05e67c23d3"
+    },
+    {
+      "company": "HAYLOU",
+      "email": "pr@haylou.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217e06ca270290"
+    },
+    {
+      "company": "KOSPET",
+      "email": "collab@kospet.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217e0789f096ed"
+    },
+    {
+      "company": "Bryton",
+      "email": "hello@bryton.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217e0846bb678c"
+    },
+    {
+      "company": "TOPDON",
+      "email": "marketing@topdon.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "automotive",
+      "language": "en",
+      "thread_id": "1a217e0925d72529"
+    },
+    {
+      "company": "Foxwell",
+      "email": "sales@foxwelltech.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "automotive",
+      "language": "en",
+      "thread_id": "1a217e09e6a8f1be"
+    },
+    {
+      "company": "Miofive",
+      "email": "support@miofive.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217e0aa17466ca"
+    },
+    {
+      "company": "WOLFBOX",
+      "email": "pr@wolfbox.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "tech",
+      "language": "en",
+      "thread_id": "1a217e0b9deab253"
+    },
+    {
+      "company": "Karting Lanzarote",
+      "email": "info@kartinglanzarote.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "es",
+      "thread_id": "1a217e0c65d039bf"
+    },
+    {
+      "company": "Karting Club Tenerife",
+      "email": "info@kartingtenerife.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "es",
+      "thread_id": "1a217e0d3f0a8f5b"
+    },
+    {
+      "company": "Rye House Kart Raceway",
+      "email": "office@rye-house.co.uk",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "en",
+      "thread_id": "1a217e1233f16a46"
+    },
+    {
+      "company": "Llandow Circuit",
+      "email": "info@llandow.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_track",
+      "language": "en",
+      "thread_id": "1a217e130e05f58f"
+    },
+    {
+      "company": "eKartingNews",
+      "email": "sales@ekartingnews.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_media",
+      "language": "en",
+      "thread_id": "1a217e13c7aeb8cb"
+    },
+    {
+      "company": "KartXpress",
+      "email": "info@kartxpress.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_media",
+      "language": "en",
+      "thread_id": "1a217e14bd37c88f"
+    },
+    {
+      "company": "Vroom Karting Magazine",
+      "email": "info@vroom.it",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "karting_media",
+      "language": "en",
+      "thread_id": "1a217e158e9d7c37"
+    },
+    {
+      "company": "JapSpeed",
+      "email": "sales@japspeed.co.uk",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "automotive",
+      "language": "en",
+      "thread_id": "1a217e164008b65a"
+    },
+    {
+      "company": "Baly Energy Drink",
+      "email": "sac@baly.com.br",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "energy_drink",
+      "language": "en",
+      "thread_id": "1a217e171bf42906"
+    },
+    {
+      "company": "Huel",
+      "email": "influencers@huel.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "nutrition",
+      "language": "en",
+      "thread_id": "1a217e17fdf79aed"
+    },
+    {
+      "company": "Trec Nutrition",
+      "email": "info@trecnutrition.com",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "nutrition",
+      "language": "en",
+      "thread_id": "1a217e18a9251fa3"
+    },
+    {
+      "company": "Mervick Lab",
+      "email": "ventas@mervick-lab.com.ar",
+      "date": "2026-11-26",
+      "status": "sent",
+      "category": "nutrition",
+      "language": "es",
+      "thread_id": "1a217e19864b148a"
     }
   ],
   "pending_response": [],
   "blacklist": [],
-  "last_updated": "2026-11-26T12:30:00Z"
+  "last_updated": "2026-11-26"
 }
